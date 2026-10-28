@@ -1,0 +1,10 @@
+# Keep downloaded and processed data out of GitHub
+data/raw/
+data/processed/
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
