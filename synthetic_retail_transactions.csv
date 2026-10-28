@@ -1,0 +1,1670 @@
+invoice_no,stock_code,description,quantity,unit_price,invoice_date,customer_id,country
+10001,P002,Canvas Tote,2,12.00,2024-01-17,C0107,France
+10001,P006,Desk Lamp,1,32.00,2024-01-17,C0107,France
+10001,P005,Water Bottle,1,18.00,2024-01-17,C0107,France
+10002,P002,Canvas Tote,2,12.00,2024-01-13,C0108,United Kingdom
+10003,P001,Ceramic Mug,2,8.50,2024-01-24,C0103,United Kingdom
+10004,P007,Pen Pack,2,5.00,2024-01-07,C0039,Netherlands
+10005,P001,Ceramic Mug,1,8.50,2024-01-11,C0139,United Kingdom
+10006,P005,Water Bottle,1,18.00,2024-01-17,C0122,United Kingdom
+10007,P001,Ceramic Mug,2,8.50,2024-01-17,C0087,United Kingdom
+10008,P006,Desk Lamp,2,32.00,2024-01-12,C0013,Spain
+10009,P004,Notebook Set,2,9.00,2024-01-08,C0030,United Kingdom
+10009,P003,Desk Plant,1,15.00,2024-01-08,C0030,United Kingdom
+10009,P002,Canvas Tote,1,12.00,2024-01-08,C0030,United Kingdom
+10010,P005,Water Bottle,3,18.00,2024-01-18,C0137,United Kingdom
+10011,P004,Notebook Set,1,9.00,2024-01-11,C0044,United Kingdom
+10011,P002,Canvas Tote,2,12.00,2024-01-11,C0044,United Kingdom
+10012,P005,Water Bottle,2,18.00,2024-01-12,C0005,United Kingdom
+10013,P007,Pen Pack,2,5.00,2024-01-10,C0067,United Kingdom
+10013,P001,Ceramic Mug,1,8.50,2024-01-10,C0067,United Kingdom
+10013,P004,Notebook Set,2,9.00,2024-01-10,C0067,United Kingdom
+10014,P008,Travel Cup,1,14.00,2024-01-19,C0101,United Kingdom
+10014,P005,Water Bottle,4,18.00,2024-01-19,C0101,United Kingdom
+10014,P007,Pen Pack,1,5.00,2024-01-19,C0101,United Kingdom
+10015,P001,Ceramic Mug,2,8.50,2024-01-11,C0081,United Kingdom
+10015,P006,Desk Lamp,2,32.00,2024-01-11,C0081,United Kingdom
+10016,P005,Water Bottle,1,18.00,2024-01-13,C0123,United Kingdom
+10017,P001,Ceramic Mug,1,8.50,2024-01-18,C0068,United Kingdom
+10017,P007,Pen Pack,2,5.00,2024-01-18,C0068,United Kingdom
+10018,P001,Ceramic Mug,1,8.50,2024-01-08,C0142,United Kingdom
+10019,P008,Travel Cup,3,14.00,2024-01-07,C0059,United Kingdom
+10019,P004,Notebook Set,1,9.00,2024-01-07,C0059,United Kingdom
+10020,P008,Travel Cup,3,14.00,2024-01-17,C0109,United Kingdom
+10020,P001,Ceramic Mug,1,8.50,2024-01-17,C0109,United Kingdom
+10021,P002,Canvas Tote,1,12.00,2024-01-11,C0095,United Kingdom
+10021,P003,Desk Plant,1,15.00,2024-01-11,C0095,United Kingdom
+10021,P003,Desk Plant,1,15.00,2024-01-11,C0095,United Kingdom
+10022,P003,Desk Plant,1,15.00,2024-01-19,C0142,Germany
+10023,P002,Canvas Tote,4,12.00,2024-01-18,C0141,United Kingdom
+10024,P001,Ceramic Mug,1,8.50,2024-01-27,C0120,United Kingdom
+10025,P005,Water Bottle,1,18.00,2024-01-22,C0180,United Kingdom
+10026,P008,Travel Cup,2,14.00,2024-01-07,C0026,France
+10026,P004,Notebook Set,3,9.00,2024-01-07,C0026,France
+10027,P003,Desk Plant,1,15.00,2024-01-21,C0008,France
+10027,P001,Ceramic Mug,1,8.50,2024-01-21,C0008,France
+10028,P004,Notebook Set,2,9.00,2024-01-18,C0068,United Kingdom
+10029,P008,Travel Cup,1,14.00,2024-01-14,C0104,Netherlands
+10030,P002,Canvas Tote,1,12.00,2024-01-24,C0009,United Kingdom
+10030,P001,Ceramic Mug,2,8.50,2024-01-24,C0009,United Kingdom
+10031,P001,Ceramic Mug,1,8.50,2024-01-16,C0073,United Kingdom
+10032,P004,Notebook Set,4,9.00,2024-01-22,C0052,United Kingdom
+10033,P003,Desk Plant,3,15.00,2024-01-19,C0039,France
+10034,P005,Water Bottle,1,18.00,2024-01-25,C0134,United Kingdom
+10034,P001,Ceramic Mug,3,8.50,2024-01-25,C0134,United Kingdom
+10035,P005,Water Bottle,1,18.00,2024-01-16,C0073,Spain
+10036,P002,Canvas Tote,2,12.00,2024-01-23,C0039,France
+10037,P002,Canvas Tote,1,12.00,2024-01-25,C0129,France
+10038,P004,Notebook Set,1,9.00,2024-01-07,C0096,United Kingdom
+10039,P002,Canvas Tote,1,12.00,2024-01-17,C0097,United Kingdom
+10040,P006,Desk Lamp,3,32.00,2024-01-25,C0119,United Kingdom
+10040,P002,Canvas Tote,1,12.00,2024-01-25,C0119,United Kingdom
+10040,P007,Pen Pack,1,5.00,2024-01-25,C0119,United Kingdom
+10041,P002,Canvas Tote,1,12.00,2024-01-04,C0168,United Kingdom
+10041,P002,Canvas Tote,1,12.00,2024-01-04,C0168,United Kingdom
+10042,P002,Canvas Tote,1,12.00,2024-01-24,C0112,United Kingdom
+10042,P008,Travel Cup,3,14.00,2024-01-24,C0112,United Kingdom
+10043,P003,Desk Plant,2,15.00,2024-01-01,C0010,France
+10044,P003,Desk Plant,2,15.00,2024-01-13,C0109,United Kingdom
+10045,P003,Desk Plant,2,15.00,2024-01-06,C0107,United Kingdom
+10046,P001,Ceramic Mug,1,8.50,2024-01-07,C0059,Germany
+10046,P005,Water Bottle,1,18.00,2024-01-07,C0059,Germany
+10047,P005,Water Bottle,1,18.00,2024-01-05,C0150,United Kingdom
+10048,P004,Notebook Set,2,9.00,2024-01-14,C0101,United Kingdom
+10049,P002,Canvas Tote,1,12.00,2024-01-23,C0062,United Kingdom
+10050,P005,Water Bottle,4,18.00,2024-01-01,C0122,United Kingdom
+10050,P001,Ceramic Mug,1,8.50,2024-01-01,C0122,United Kingdom
+10051,P001,Ceramic Mug,2,8.50,2024-01-09,C0121,United Kingdom
+10052,P007,Pen Pack,1,5.00,2024-01-10,C0113,United Kingdom
+10052,P005,Water Bottle,1,18.00,2024-01-10,C0113,United Kingdom
+10053,P005,Water Bottle,2,18.00,2024-01-17,C0068,France
+10054,P001,Ceramic Mug,1,8.50,2024-01-10,C0137,United Kingdom
+10055,P001,Ceramic Mug,1,8.50,2024-01-12,C0124,Spain
+10055,P003,Desk Plant,1,15.00,2024-01-12,C0124,Spain
+10056,P004,Notebook Set,2,9.00,2024-01-25,C0127,United Kingdom
+10057,P001,Ceramic Mug,1,8.50,2024-01-12,C0133,France
+10057,P004,Notebook Set,2,9.00,2024-01-12,C0133,France
+10058,P002,Canvas Tote,2,12.00,2024-01-04,C0174,Germany
+10059,P008,Travel Cup,1,14.00,2024-01-02,C0174,Netherlands
+10060,P005,Water Bottle,1,18.00,2024-01-04,C0036,United Kingdom
+10061,P001,Ceramic Mug,1,8.50,2024-01-11,C0142,United Kingdom
+10062,P008,Travel Cup,1,14.00,2024-01-11,C0138,Germany
+10062,P001,Ceramic Mug,1,8.50,2024-01-11,C0138,Germany
+10063,P007,Pen Pack,2,5.00,2024-01-15,C0077,United Kingdom
+10064,P007,Pen Pack,2,5.00,2024-01-05,C0019,Germany
+10065,P003,Desk Plant,1,15.00,2024-01-19,C0174,United Kingdom
+10066,P003,Desk Plant,2,15.00,2024-01-27,C0098,France
+10067,P006,Desk Lamp,1,32.00,2024-01-22,C0068,United Kingdom
+10068,P005,Water Bottle,2,18.00,2024-01-25,C0057,France
+10068,P004,Notebook Set,1,9.00,2024-01-25,C0057,France
+10069,P003,Desk Plant,1,15.00,2024-01-04,C0053,Germany
+10070,P002,Canvas Tote,2,12.00,2024-01-14,C0159,United Kingdom
+10070,P002,Canvas Tote,1,12.00,2024-01-14,C0159,United Kingdom
+10070,P007,Pen Pack,1,5.00,2024-01-14,C0159,United Kingdom
+10071,P006,Desk Lamp,1,32.00,2024-01-23,C0012,United Kingdom
+10072,P007,Pen Pack,3,5.00,2024-01-18,C0083,Germany
+10073,P004,Notebook Set,2,9.00,2024-01-26,C0092,United Kingdom
+10074,P001,Ceramic Mug,1,8.50,2024-01-19,C0114,Netherlands
+10075,P001,Ceramic Mug,1,8.50,2024-01-17,C0040,Germany
+10075,P001,Ceramic Mug,2,8.50,2024-01-17,C0040,Germany
+10076,P005,Water Bottle,1,18.00,2024-01-13,C0026,United Kingdom
+10077,P003,Desk Plant,1,15.00,2024-01-15,C0084,United Kingdom
+10078,P002,Canvas Tote,1,12.00,2024-01-23,C0115,United Kingdom
+10079,P002,Canvas Tote,1,12.00,2024-01-04,C0067,United Kingdom
+10080,P006,Desk Lamp,1,32.00,2024-01-13,C0003,United Kingdom
+10080,P008,Travel Cup,1,14.00,2024-01-13,C0003,United Kingdom
+10081,P006,Desk Lamp,1,32.00,2024-01-12,C0030,Germany
+10082,P008,Travel Cup,1,14.00,2024-01-17,C0045,United Kingdom
+10082,P005,Water Bottle,2,18.00,2024-01-17,C0045,United Kingdom
+10083,P004,Notebook Set,1,9.00,2024-01-23,C0168,United Kingdom
+10084,P001,Ceramic Mug,2,8.50,2024-01-27,C0015,United Kingdom
+10085,P002,Canvas Tote,2,12.00,2024-01-26,C0098,Germany
+10086,P008,Travel Cup,1,14.00,2024-01-27,C0042,Netherlands
+10086,P002,Canvas Tote,1,12.00,2024-01-27,C0042,Netherlands
+10087,P005,Water Bottle,1,18.00,2024-01-27,C0076,United Kingdom
+10088,P002,Canvas Tote,1,12.00,2024-01-19,C0154,United Kingdom
+10088,P004,Notebook Set,2,9.00,2024-01-19,C0154,United Kingdom
+10089,P008,Travel Cup,1,14.00,2024-01-26,C0136,Germany
+10090,P004,Notebook Set,1,9.00,2024-01-24,C0078,France
+10091,P004,Notebook Set,2,9.00,2024-01-03,C0095,United Kingdom
+10091,P008,Travel Cup,2,14.00,2024-01-03,C0095,United Kingdom
+10092,P003,Desk Plant,2,15.00,2024-01-16,C0056,United Kingdom
+10092,P007,Pen Pack,3,5.00,2024-01-16,C0056,United Kingdom
+10093,P002,Canvas Tote,1,12.00,2024-01-07,C0135,United Kingdom
+10094,P005,Water Bottle,3,18.00,2024-01-10,C0137,United Kingdom
+10095,P004,Notebook Set,1,9.00,2024-01-09,C0071,United Kingdom
+10095,P007,Pen Pack,2,5.00,2024-01-09,C0071,United Kingdom
+10096,P001,Ceramic Mug,1,8.50,2024-01-17,C0042,United Kingdom
+10097,P005,Water Bottle,1,18.00,2024-01-02,C0124,United Kingdom
+10098,P002,Canvas Tote,1,12.00,2024-01-09,C0131,United Kingdom
+10099,P003,Desk Plant,1,15.00,2024-01-16,C0019,Germany
+10099,P008,Travel Cup,2,14.00,2024-01-16,C0019,Germany
+10100,P004,Notebook Set,1,9.00,2024-01-27,C0057,Germany
+10100,P007,Pen Pack,1,5.00,2024-01-27,C0057,Germany
+10101,P008,Travel Cup,2,14.00,2024-02-19,C0137,France
+10102,P007,Pen Pack,2,5.00,2024-02-01,C0180,United Kingdom
+10103,P004,Notebook Set,1,9.00,2024-02-02,C0081,France
+10104,P006,Desk Lamp,1,32.00,2024-02-10,C0132,France
+10105,P006,Desk Lamp,2,32.00,2024-02-12,C0109,United Kingdom
+10105,P005,Water Bottle,1,18.00,2024-02-12,C0109,United Kingdom
+10106,P004,Notebook Set,1,9.00,2024-02-21,C0142,United Kingdom
+10107,P004,Notebook Set,2,9.00,2024-02-10,C0015,United Kingdom
+10107,P005,Water Bottle,1,18.00,2024-02-10,C0015,United Kingdom
+10108,P002,Canvas Tote,1,12.00,2024-02-06,C0024,United Kingdom
+10109,P003,Desk Plant,1,15.00,2024-02-10,C0127,Spain
+10110,P006,Desk Lamp,1,32.00,2024-02-19,C0180,Germany
+10111,P002,Canvas Tote,3,12.00,2024-02-23,C0136,United Kingdom
+10112,P007,Pen Pack,1,5.00,2024-02-01,C0030,United Kingdom
+10113,P006,Desk Lamp,1,32.00,2024-02-22,C0148,United Kingdom
+10114,P001,Ceramic Mug,1,8.50,2024-02-09,C0171,United Kingdom
+10115,P001,Ceramic Mug,1,8.50,2024-02-22,C0038,Netherlands
+10116,P008,Travel Cup,1,14.00,2024-02-10,C0162,United Kingdom
+10116,P003,Desk Plant,1,15.00,2024-02-10,C0162,United Kingdom
+10117,P008,Travel Cup,1,14.00,2024-02-08,C0062,United Kingdom
+10117,P008,Travel Cup,1,14.00,2024-02-08,C0062,United Kingdom
+10117,P001,Ceramic Mug,1,8.50,2024-02-08,C0062,United Kingdom
+10118,P003,Desk Plant,3,15.00,2024-02-09,C0005,United Kingdom
+10119,P002,Canvas Tote,3,12.00,2024-02-10,C0120,United Kingdom
+10120,P003,Desk Plant,1,15.00,2024-02-07,C0010,United Kingdom
+10121,P001,Ceramic Mug,1,8.50,2024-02-11,C0142,France
+10122,P004,Notebook Set,1,9.00,2024-02-22,C0056,France
+10123,P001,Ceramic Mug,1,8.50,2024-02-22,C0016,United Kingdom
+10123,P002,Canvas Tote,3,12.00,2024-02-22,C0016,United Kingdom
+10123,P008,Travel Cup,1,14.00,2024-02-22,C0016,United Kingdom
+10124,P002,Canvas Tote,1,12.00,2024-02-21,C0024,Netherlands
+10124,P003,Desk Plant,1,15.00,2024-02-21,C0024,Netherlands
+10125,P001,Ceramic Mug,2,8.50,2024-02-11,C0038,Germany
+10126,P003,Desk Plant,2,15.00,2024-02-22,C0014,Netherlands
+10127,P003,Desk Plant,1,15.00,2024-02-23,C0044,United Kingdom
+10128,P001,Ceramic Mug,3,8.50,2024-02-02,C0007,United Kingdom
+10129,P001,Ceramic Mug,1,8.50,2024-02-22,C0084,United Kingdom
+10130,P001,Ceramic Mug,1,8.50,2024-02-02,C0110,United Kingdom
+10131,P004,Notebook Set,1,9.00,2024-02-01,C0006,United Kingdom
+10131,P004,Notebook Set,1,9.00,2024-02-01,C0006,United Kingdom
+10132,P008,Travel Cup,2,14.00,2024-02-27,C0139,Germany
+10132,P004,Notebook Set,2,9.00,2024-02-27,C0139,Germany
+10132,P001,Ceramic Mug,1,8.50,2024-02-27,C0139,Germany
+10133,P007,Pen Pack,2,5.00,2024-02-03,C0132,United Kingdom
+10134,P005,Water Bottle,1,18.00,2024-02-07,C0072,Netherlands
+10135,P004,Notebook Set,1,9.00,2024-02-21,C0049,United Kingdom
+10136,P006,Desk Lamp,1,32.00,2024-02-15,C0127,United Kingdom
+10137,P002,Canvas Tote,1,12.00,2024-02-06,C0168,United Kingdom
+10137,P005,Water Bottle,1,18.00,2024-02-06,C0168,United Kingdom
+10138,P002,Canvas Tote,1,12.00,2024-02-17,C0005,France
+10139,P002,Canvas Tote,3,12.00,2024-02-26,C0041,United Kingdom
+10139,P005,Water Bottle,1,18.00,2024-02-26,C0041,United Kingdom
+10140,P002,Canvas Tote,2,12.00,2024-02-21,C0067,United Kingdom
+10141,P004,Notebook Set,1,9.00,2024-02-08,C0131,United Kingdom
+10142,P001,Ceramic Mug,1,8.50,2024-02-09,C0092,Germany
+10143,P002,Canvas Tote,1,12.00,2024-02-16,C0012,United Kingdom
+10144,P007,Pen Pack,1,5.00,2024-02-06,C0167,United Kingdom
+10145,P002,Canvas Tote,1,12.00,2024-02-07,C0024,United Kingdom
+10146,P001,Ceramic Mug,4,8.50,2024-02-12,C0126,United Kingdom
+10146,P007,Pen Pack,1,5.00,2024-02-12,C0126,United Kingdom
+10147,P008,Travel Cup,1,14.00,2024-02-26,C0077,United Kingdom
+10148,P007,Pen Pack,1,5.00,2024-02-13,C0130,United Kingdom
+10149,P004,Notebook Set,1,9.00,2024-02-03,C0087,United Kingdom
+10150,P005,Water Bottle,2,18.00,2024-02-22,C0052,United Kingdom
+10151,P007,Pen Pack,2,5.00,2024-02-27,C0101,United Kingdom
+10152,P003,Desk Plant,1,15.00,2024-02-09,C0103,Netherlands
+10153,P005,Water Bottle,1,18.00,2024-02-02,C0078,United Kingdom
+10154,P002,Canvas Tote,2,12.00,2024-02-02,C0023,United Kingdom
+10154,P008,Travel Cup,1,14.00,2024-02-02,C0023,United Kingdom
+10155,P005,Water Bottle,1,18.00,2024-02-08,C0111,United Kingdom
+10155,P007,Pen Pack,1,5.00,2024-02-08,C0111,United Kingdom
+10156,P002,Canvas Tote,1,12.00,2024-02-11,C0051,United Kingdom
+10157,P007,Pen Pack,2,5.00,2024-02-12,C0172,United Kingdom
+10158,P001,Ceramic Mug,1,8.50,2024-02-11,C0056,Netherlands
+10158,P004,Notebook Set,1,9.00,2024-02-11,C0056,Netherlands
+10159,P003,Desk Plant,2,15.00,2024-02-05,C0057,United Kingdom
+10160,P003,Desk Plant,2,15.00,2024-02-01,C0070,France
+10160,P006,Desk Lamp,1,32.00,2024-02-01,C0070,France
+10161,P003,Desk Plant,1,15.00,2024-02-05,C0074,United Kingdom
+10161,P007,Pen Pack,2,5.00,2024-02-05,C0074,United Kingdom
+10162,P006,Desk Lamp,2,32.00,2024-02-09,C0148,Germany
+10163,P001,Ceramic Mug,1,8.50,2024-02-22,C0052,United Kingdom
+10164,P004,Notebook Set,1,9.00,2024-02-11,C0026,United Kingdom
+10165,P001,Ceramic Mug,1,8.50,2024-02-12,C0075,United Kingdom
+10166,P006,Desk Lamp,1,32.00,2024-02-02,C0021,United Kingdom
+10167,P004,Notebook Set,3,9.00,2024-02-13,C0068,United Kingdom
+10167,P004,Notebook Set,2,9.00,2024-02-13,C0068,United Kingdom
+10167,P002,Canvas Tote,1,12.00,2024-02-13,C0068,United Kingdom
+10168,P001,Ceramic Mug,1,8.50,2024-02-14,C0068,United Kingdom
+10169,P003,Desk Plant,1,15.00,2024-02-17,C0130,France
+10170,P002,Canvas Tote,1,12.00,2024-02-15,C0002,Germany
+10171,P006,Desk Lamp,2,32.00,2024-02-22,C0152,Spain
+10172,P001,Ceramic Mug,1,8.50,2024-02-16,C0111,France
+10173,P008,Travel Cup,2,14.00,2024-02-23,C0139,United Kingdom
+10174,P005,Water Bottle,3,18.00,2024-02-26,C0070,Spain
+10175,P001,Ceramic Mug,1,8.50,2024-02-13,C0066,Netherlands
+10176,P004,Notebook Set,1,9.00,2024-02-11,C0137,United Kingdom
+10177,P006,Desk Lamp,3,32.00,2024-02-10,C0025,Spain
+10177,P008,Travel Cup,1,14.00,2024-02-10,C0025,Spain
+10177,P006,Desk Lamp,4,32.00,2024-02-10,C0025,Spain
+10178,P001,Ceramic Mug,2,8.50,2024-02-01,C0133,Germany
+10179,P001,Ceramic Mug,2,8.50,2024-02-12,C0164,United Kingdom
+10179,P002,Canvas Tote,1,12.00,2024-02-12,C0164,United Kingdom
+10179,P007,Pen Pack,1,5.00,2024-02-12,C0164,United Kingdom
+10180,P004,Notebook Set,2,9.00,2024-02-14,C0150,Germany
+10181,P001,Ceramic Mug,1,8.50,2024-02-24,C0017,United Kingdom
+10182,P007,Pen Pack,1,5.00,2024-02-27,C0135,United Kingdom
+10183,P005,Water Bottle,1,18.00,2024-02-20,C0107,United Kingdom
+10184,P001,Ceramic Mug,1,8.50,2024-02-08,C0057,United Kingdom
+10185,P007,Pen Pack,2,5.00,2024-02-16,C0105,United Kingdom
+10185,P008,Travel Cup,1,14.00,2024-02-16,C0105,United Kingdom
+10186,P007,Pen Pack,1,5.00,2024-02-24,C0011,United Kingdom
+10187,P002,Canvas Tote,1,12.00,2024-02-06,C0021,Netherlands
+10188,P007,Pen Pack,2,5.00,2024-02-11,C0005,United Kingdom
+10189,P003,Desk Plant,1,15.00,2024-02-20,C0168,France
+10190,P008,Travel Cup,3,14.00,2024-02-08,C0163,United Kingdom
+10191,P006,Desk Lamp,1,32.00,2024-02-03,C0125,Germany
+10192,P001,Ceramic Mug,1,8.50,2024-02-16,C0035,United Kingdom
+10193,P007,Pen Pack,1,5.00,2024-02-10,C0169,Germany
+10194,P004,Notebook Set,2,9.00,2024-02-14,C0020,United Kingdom
+10195,P007,Pen Pack,1,5.00,2024-02-24,C0029,France
+10195,P005,Water Bottle,3,18.00,2024-02-24,C0029,France
+10196,P002,Canvas Tote,1,12.00,2024-02-06,C0039,United Kingdom
+10196,P002,Canvas Tote,1,12.00,2024-02-06,C0039,United Kingdom
+10197,P002,Canvas Tote,1,12.00,2024-02-03,C0088,Netherlands
+10198,P005,Water Bottle,1,18.00,2024-02-10,C0121,France
+10199,P006,Desk Lamp,1,32.00,2024-02-18,C0049,Germany
+10199,P003,Desk Plant,2,15.00,2024-02-18,C0049,Germany
+10200,P002,Canvas Tote,1,12.00,2024-02-23,C0164,Netherlands
+10201,P004,Notebook Set,1,9.00,2024-03-17,C0049,United Kingdom
+10202,P007,Pen Pack,1,5.00,2024-03-26,C0097,United Kingdom
+10202,P001,Ceramic Mug,2,8.50,2024-03-26,C0097,United Kingdom
+10203,P004,Notebook Set,1,9.00,2024-03-25,C0048,United Kingdom
+10204,P001,Ceramic Mug,4,8.50,2024-03-06,C0066,United Kingdom
+10205,P002,Canvas Tote,4,12.00,2024-03-26,C0108,United Kingdom
+10205,P003,Desk Plant,1,15.00,2024-03-26,C0108,United Kingdom
+10205,P001,Ceramic Mug,3,8.50,2024-03-26,C0108,United Kingdom
+10206,P008,Travel Cup,2,14.00,2024-03-26,C0047,Germany
+10206,P004,Notebook Set,1,9.00,2024-03-26,C0047,Germany
+10207,P005,Water Bottle,2,18.00,2024-03-12,C0096,Germany
+10208,P005,Water Bottle,1,18.00,2024-03-10,C0132,United Kingdom
+10209,P003,Desk Plant,1,15.00,2024-03-25,C0073,United Kingdom
+10210,P001,Ceramic Mug,2,8.50,2024-03-13,C0022,United Kingdom
+10211,P006,Desk Lamp,1,32.00,2024-03-17,C0164,United Kingdom
+10211,P007,Pen Pack,1,5.00,2024-03-17,C0164,United Kingdom
+10212,P007,Pen Pack,2,5.00,2024-03-06,C0092,United Kingdom
+10213,P001,Ceramic Mug,2,8.50,2024-03-09,C0020,United Kingdom
+10213,P005,Water Bottle,2,18.00,2024-03-09,C0020,United Kingdom
+10214,P006,Desk Lamp,2,32.00,2024-03-07,C0056,United Kingdom
+10215,P008,Travel Cup,3,14.00,2024-03-22,C0083,Netherlands
+10216,P004,Notebook Set,1,9.00,2024-03-12,C0017,United Kingdom
+10217,P005,Water Bottle,1,18.00,2024-03-27,C0094,United Kingdom
+10218,P004,Notebook Set,1,9.00,2024-03-24,C0159,United Kingdom
+10218,P004,Notebook Set,1,9.00,2024-03-24,C0159,United Kingdom
+10219,P003,Desk Plant,1,15.00,2024-03-08,C0105,United Kingdom
+10220,P007,Pen Pack,2,5.00,2024-03-05,C0112,United Kingdom
+10221,P007,Pen Pack,1,5.00,2024-03-12,C0069,United Kingdom
+10221,P001,Ceramic Mug,1,8.50,2024-03-12,C0069,United Kingdom
+10222,P004,Notebook Set,2,9.00,2024-03-17,C0007,United Kingdom
+10223,P002,Canvas Tote,1,12.00,2024-03-13,C0006,United Kingdom
+10224,P006,Desk Lamp,1,32.00,2024-03-20,C0166,France
+10225,P007,Pen Pack,1,5.00,2024-03-16,C0050,Germany
+10226,P003,Desk Plant,4,15.00,2024-03-23,C0028,Germany
+10226,P004,Notebook Set,1,9.00,2024-03-23,C0028,Germany
+10227,P004,Notebook Set,1,9.00,2024-03-14,C0039,United Kingdom
+10228,P005,Water Bottle,1,18.00,2024-03-17,C0102,United Kingdom
+10229,P003,Desk Plant,1,15.00,2024-03-03,C0173,United Kingdom
+10229,P005,Water Bottle,2,18.00,2024-03-03,C0173,United Kingdom
+10230,P008,Travel Cup,1,14.00,2024-03-17,C0173,United Kingdom
+10230,P001,Ceramic Mug,1,8.50,2024-03-17,C0173,United Kingdom
+10231,P005,Water Bottle,1,18.00,2024-03-06,C0115,Netherlands
+10232,P004,Notebook Set,3,9.00,2024-03-21,C0059,Spain
+10233,P005,Water Bottle,1,18.00,2024-03-04,C0094,United Kingdom
+10234,P002,Canvas Tote,1,12.00,2024-03-17,C0119,United Kingdom
+10235,P002,Canvas Tote,1,12.00,2024-03-14,C0099,Netherlands
+10235,P002,Canvas Tote,2,12.00,2024-03-14,C0099,Netherlands
+10236,P007,Pen Pack,1,5.00,2024-03-14,C0151,United Kingdom
+10237,P001,Ceramic Mug,1,8.50,2024-03-26,C0042,United Kingdom
+10237,P003,Desk Plant,1,15.00,2024-03-26,C0042,United Kingdom
+10237,P002,Canvas Tote,1,12.00,2024-03-26,C0042,United Kingdom
+10238,P006,Desk Lamp,1,32.00,2024-03-27,C0110,United Kingdom
+10239,P004,Notebook Set,1,9.00,2024-03-23,C0158,United Kingdom
+10240,P007,Pen Pack,1,5.00,2024-03-24,C0033,United Kingdom
+10241,P008,Travel Cup,1,14.00,2024-03-26,C0064,France
+10242,P001,Ceramic Mug,1,8.50,2024-03-02,C0081,United Kingdom
+10243,P007,Pen Pack,1,5.00,2024-03-08,C0118,United Kingdom
+10243,P006,Desk Lamp,1,32.00,2024-03-08,C0118,United Kingdom
+10244,P004,Notebook Set,2,9.00,2024-03-10,C0059,United Kingdom
+10245,P007,Pen Pack,2,5.00,2024-03-10,C0177,United Kingdom
+10246,P004,Notebook Set,1,9.00,2024-03-03,C0180,United Kingdom
+10247,P005,Water Bottle,1,18.00,2024-03-10,C0001,United Kingdom
+10247,P007,Pen Pack,3,5.00,2024-03-10,C0001,United Kingdom
+10248,P004,Notebook Set,1,9.00,2024-03-17,C0111,France
+10249,P007,Pen Pack,1,5.00,2024-03-27,C0030,United Kingdom
+10250,P001,Ceramic Mug,1,8.50,2024-03-11,C0011,United Kingdom
+10251,P004,Notebook Set,2,9.00,2024-03-24,C0138,Netherlands
+10252,P007,Pen Pack,1,5.00,2024-03-14,C0139,United Kingdom
+10253,P002,Canvas Tote,2,12.00,2024-03-15,C0013,United Kingdom
+10254,P008,Travel Cup,1,14.00,2024-03-03,C0172,United Kingdom
+10255,P006,Desk Lamp,3,32.00,2024-03-09,C0040,United Kingdom
+10256,P004,Notebook Set,2,9.00,2024-03-14,C0045,United Kingdom
+10257,P006,Desk Lamp,1,32.00,2024-03-02,C0056,United Kingdom
+10257,P002,Canvas Tote,2,12.00,2024-03-02,C0056,United Kingdom
+10257,P003,Desk Plant,3,15.00,2024-03-02,C0056,United Kingdom
+10258,P006,Desk Lamp,1,32.00,2024-03-09,C0065,Germany
+10259,P005,Water Bottle,1,18.00,2024-03-16,C0094,United Kingdom
+10260,P006,Desk Lamp,2,32.00,2024-03-11,C0077,United Kingdom
+10261,P001,Ceramic Mug,2,8.50,2024-03-06,C0164,Germany
+10262,P007,Pen Pack,2,5.00,2024-03-01,C0069,France
+10262,P006,Desk Lamp,1,32.00,2024-03-01,C0069,France
+10262,P006,Desk Lamp,1,32.00,2024-03-01,C0069,France
+10263,P002,Canvas Tote,2,12.00,2024-03-01,C0122,United Kingdom
+10263,P001,Ceramic Mug,1,8.50,2024-03-01,C0122,United Kingdom
+10263,P001,Ceramic Mug,1,8.50,2024-03-01,C0122,United Kingdom
+10264,P005,Water Bottle,1,18.00,2024-03-20,C0061,Spain
+10265,P003,Desk Plant,3,15.00,2024-03-21,C0144,United Kingdom
+10266,P008,Travel Cup,1,14.00,2024-03-04,C0029,Germany
+10267,P001,Ceramic Mug,1,8.50,2024-03-25,C0143,United Kingdom
+10268,P008,Travel Cup,1,14.00,2024-03-23,C0048,France
+10269,P007,Pen Pack,1,5.00,2024-03-11,C0019,Germany
+10269,P002,Canvas Tote,1,12.00,2024-03-11,C0019,Germany
+10270,P002,Canvas Tote,2,12.00,2024-03-03,C0093,Germany
+10270,P004,Notebook Set,1,9.00,2024-03-03,C0093,Germany
+10271,P001,Ceramic Mug,2,8.50,2024-03-10,C0147,France
+10272,P001,Ceramic Mug,1,8.50,2024-03-02,C0068,France
+10272,P007,Pen Pack,2,5.00,2024-03-02,C0068,France
+10273,P007,Pen Pack,1,5.00,2024-03-25,C0073,United Kingdom
+10274,P007,Pen Pack,1,5.00,2024-03-12,C0095,United Kingdom
+10274,P002,Canvas Tote,1,12.00,2024-03-12,C0095,United Kingdom
+10275,P004,Notebook Set,1,9.00,2024-03-08,C0048,Germany
+10275,P002,Canvas Tote,1,12.00,2024-03-08,C0048,Germany
+10276,P004,Notebook Set,1,9.00,2024-03-18,C0125,United Kingdom
+10277,P008,Travel Cup,1,14.00,2024-03-04,C0019,United Kingdom
+10278,P005,Water Bottle,1,18.00,2024-03-04,C0070,United Kingdom
+10278,P004,Notebook Set,3,9.00,2024-03-04,C0070,United Kingdom
+10278,P005,Water Bottle,1,18.00,2024-03-04,C0070,United Kingdom
+10279,P005,Water Bottle,1,18.00,2024-03-13,C0052,United Kingdom
+10279,P005,Water Bottle,1,18.00,2024-03-13,C0052,United Kingdom
+10280,P001,Ceramic Mug,1,8.50,2024-03-25,C0007,United Kingdom
+10281,P001,Ceramic Mug,1,8.50,2024-03-02,C0040,United Kingdom
+10282,P004,Notebook Set,2,9.00,2024-03-06,C0102,United Kingdom
+10283,P002,Canvas Tote,1,12.00,2024-03-27,C0157,United Kingdom
+10284,P004,Notebook Set,1,9.00,2024-03-03,C0022,United Kingdom
+10285,P002,Canvas Tote,2,12.00,2024-03-07,C0015,United Kingdom
+10285,P005,Water Bottle,3,18.00,2024-03-07,C0015,United Kingdom
+10285,P004,Notebook Set,1,9.00,2024-03-07,C0015,United Kingdom
+10286,P007,Pen Pack,1,5.00,2024-03-09,C0111,United Kingdom
+10287,P002,Canvas Tote,1,12.00,2024-03-25,C0036,United Kingdom
+10288,P007,Pen Pack,3,5.00,2024-03-27,C0126,United Kingdom
+10289,P003,Desk Plant,1,15.00,2024-03-24,C0088,France
+10290,P005,Water Bottle,2,18.00,2024-03-11,C0096,United Kingdom
+10290,P007,Pen Pack,1,5.00,2024-03-11,C0096,United Kingdom
+10291,P008,Travel Cup,3,14.00,2024-03-12,C0053,France
+10291,P005,Water Bottle,1,18.00,2024-03-12,C0053,France
+10292,P002,Canvas Tote,1,12.00,2024-03-05,C0147,United Kingdom
+10292,P006,Desk Lamp,1,32.00,2024-03-05,C0147,United Kingdom
+10293,P005,Water Bottle,1,18.00,2024-03-25,C0002,United Kingdom
+10294,P004,Notebook Set,1,9.00,2024-03-02,C0049,United Kingdom
+10295,P004,Notebook Set,1,9.00,2024-03-19,C0156,United Kingdom
+10296,P004,Notebook Set,2,9.00,2024-03-04,C0078,United Kingdom
+10297,P003,Desk Plant,1,15.00,2024-03-07,C0040,United Kingdom
+10297,P003,Desk Plant,1,15.00,2024-03-07,C0040,United Kingdom
+10298,P002,Canvas Tote,1,12.00,2024-03-27,C0145,United Kingdom
+10298,P005,Water Bottle,1,18.00,2024-03-27,C0145,United Kingdom
+10299,P002,Canvas Tote,1,12.00,2024-03-19,C0077,United Kingdom
+10299,P008,Travel Cup,1,14.00,2024-03-19,C0077,United Kingdom
+10300,P004,Notebook Set,1,9.00,2024-03-09,C0175,United Kingdom
+10301,P001,Ceramic Mug,3,8.50,2024-04-26,C0006,United Kingdom
+10302,P004,Notebook Set,1,9.00,2024-04-22,C0044,France
+10303,P005,Water Bottle,1,18.00,2024-04-04,C0150,United Kingdom
+10304,P003,Desk Plant,1,15.00,2024-04-18,C0132,United Kingdom
+10305,P002,Canvas Tote,2,12.00,2024-04-03,C0166,United Kingdom
+10306,P001,Ceramic Mug,1,8.50,2024-04-01,C0081,United Kingdom
+10307,P002,Canvas Tote,1,12.00,2024-04-21,C0056,France
+10308,P008,Travel Cup,1,14.00,2024-04-09,C0163,United Kingdom
+10309,P005,Water Bottle,2,18.00,2024-04-19,C0134,United Kingdom
+10310,P001,Ceramic Mug,1,8.50,2024-04-19,C0051,Netherlands
+10310,P001,Ceramic Mug,2,8.50,2024-04-19,C0051,Netherlands
+10311,P002,Canvas Tote,1,12.00,2024-04-18,C0010,United Kingdom
+10312,P001,Ceramic Mug,2,8.50,2024-04-24,C0132,United Kingdom
+10313,P001,Ceramic Mug,1,8.50,2024-04-12,C0168,United Kingdom
+10314,P003,Desk Plant,2,15.00,2024-04-05,C0127,United Kingdom
+10314,P001,Ceramic Mug,1,8.50,2024-04-05,C0127,United Kingdom
+10315,P001,Ceramic Mug,1,8.50,2024-04-26,C0070,United Kingdom
+10316,P008,Travel Cup,1,14.00,2024-04-21,C0176,France
+10317,P008,Travel Cup,1,14.00,2024-04-16,C0004,United Kingdom
+10317,P004,Notebook Set,3,9.00,2024-04-16,C0004,United Kingdom
+10318,P006,Desk Lamp,1,32.00,2024-04-17,C0096,United Kingdom
+10319,P008,Travel Cup,1,14.00,2024-04-07,C0038,United Kingdom
+10320,P002,Canvas Tote,1,12.00,2024-04-05,C0173,United Kingdom
+10321,P004,Notebook Set,3,9.00,2024-04-01,C0123,France
+10321,P006,Desk Lamp,1,32.00,2024-04-01,C0123,France
+10322,P001,Ceramic Mug,1,8.50,2024-04-08,C0066,United Kingdom
+10323,P002,Canvas Tote,2,12.00,2024-04-01,C0024,United Kingdom
+10324,P007,Pen Pack,2,5.00,2024-04-15,C0012,United Kingdom
+10325,P003,Desk Plant,1,15.00,2024-04-16,C0149,United Kingdom
+10325,P004,Notebook Set,2,9.00,2024-04-16,C0149,United Kingdom
+10326,P004,Notebook Set,1,9.00,2024-04-22,C0088,United Kingdom
+10327,P008,Travel Cup,1,14.00,2024-04-01,C0157,United Kingdom
+10327,P008,Travel Cup,1,14.00,2024-04-01,C0157,United Kingdom
+10328,P004,Notebook Set,1,9.00,2024-04-03,C0076,Spain
+10329,P007,Pen Pack,1,5.00,2024-04-14,C0074,United Kingdom
+10330,P003,Desk Plant,1,15.00,2024-04-26,C0130,United Kingdom
+10331,P007,Pen Pack,2,5.00,2024-04-05,C0039,Spain
+10332,P002,Canvas Tote,2,12.00,2024-04-16,C0082,United Kingdom
+10333,P003,Desk Plant,1,15.00,2024-04-17,C0119,Spain
+10334,P005,Water Bottle,1,18.00,2024-04-25,C0132,United Kingdom
+10335,P003,Desk Plant,1,15.00,2024-04-24,C0120,United Kingdom
+10336,P001,Ceramic Mug,1,8.50,2024-04-16,C0072,Spain
+10337,P002,Canvas Tote,2,12.00,2024-04-01,C0101,United Kingdom
+10338,P007,Pen Pack,2,5.00,2024-04-06,C0020,Netherlands
+10339,P006,Desk Lamp,1,32.00,2024-04-27,C0112,United Kingdom
+10339,P003,Desk Plant,1,15.00,2024-04-27,C0112,United Kingdom
+10340,P007,Pen Pack,1,5.00,2024-04-14,C0131,United Kingdom
+10341,P007,Pen Pack,2,5.00,2024-04-13,C0161,United Kingdom
+10342,P001,Ceramic Mug,1,8.50,2024-04-07,C0079,France
+10343,P002,Canvas Tote,1,12.00,2024-04-17,C0029,United Kingdom
+10344,P003,Desk Plant,1,15.00,2024-04-22,C0054,Spain
+10344,P005,Water Bottle,1,18.00,2024-04-22,C0054,Spain
+10345,P005,Water Bottle,2,18.00,2024-04-03,C0169,United Kingdom
+10346,P004,Notebook Set,2,9.00,2024-04-20,C0152,United Kingdom
+10346,P007,Pen Pack,1,5.00,2024-04-20,C0152,United Kingdom
+10346,P003,Desk Plant,1,15.00,2024-04-20,C0152,United Kingdom
+10347,P002,Canvas Tote,1,12.00,2024-04-17,C0050,United Kingdom
+10348,P005,Water Bottle,1,18.00,2024-04-11,C0047,Germany
+10348,P002,Canvas Tote,4,12.00,2024-04-11,C0047,Germany
+10349,P006,Desk Lamp,1,32.00,2024-04-07,C0159,Netherlands
+10350,P002,Canvas Tote,2,12.00,2024-04-13,C0114,United Kingdom
+10351,P004,Notebook Set,1,9.00,2024-04-27,C0007,Germany
+10352,P007,Pen Pack,2,5.00,2024-04-18,C0037,United Kingdom
+10352,P003,Desk Plant,1,15.00,2024-04-18,C0037,United Kingdom
+10353,P001,Ceramic Mug,4,8.50,2024-04-22,C0091,United Kingdom
+10353,P008,Travel Cup,1,14.00,2024-04-22,C0091,United Kingdom
+10354,P002,Canvas Tote,2,12.00,2024-04-17,C0088,United Kingdom
+10354,P007,Pen Pack,1,5.00,2024-04-17,C0088,United Kingdom
+10355,P003,Desk Plant,1,15.00,2024-04-07,C0155,United Kingdom
+10356,P001,Ceramic Mug,2,8.50,2024-04-05,C0125,United Kingdom
+10357,P006,Desk Lamp,1,32.00,2024-04-22,C0048,Spain
+10358,P007,Pen Pack,1,5.00,2024-04-07,C0043,United Kingdom
+10358,P006,Desk Lamp,2,32.00,2024-04-07,C0043,United Kingdom
+10359,P001,Ceramic Mug,2,8.50,2024-04-14,C0141,France
+10359,P003,Desk Plant,2,15.00,2024-04-14,C0141,France
+10360,P002,Canvas Tote,1,12.00,2024-04-02,C0033,United Kingdom
+10360,P001,Ceramic Mug,1,8.50,2024-04-02,C0033,United Kingdom
+10361,P007,Pen Pack,1,5.00,2024-04-23,C0026,United Kingdom
+10362,P004,Notebook Set,1,9.00,2024-04-01,C0133,Germany
+10363,P001,Ceramic Mug,2,8.50,2024-04-15,C0128,France
+10364,P004,Notebook Set,1,9.00,2024-04-20,C0105,United Kingdom
+10365,P002,Canvas Tote,1,12.00,2024-04-08,C0049,United Kingdom
+10366,P003,Desk Plant,2,15.00,2024-04-25,C0022,Spain
+10366,P003,Desk Plant,3,15.00,2024-04-25,C0022,Spain
+10367,P005,Water Bottle,4,18.00,2024-04-27,C0145,United Kingdom
+10368,P001,Ceramic Mug,2,8.50,2024-04-15,C0154,Netherlands
+10369,P004,Notebook Set,2,9.00,2024-04-20,C0036,United Kingdom
+10370,P002,Canvas Tote,2,12.00,2024-04-25,C0006,United Kingdom
+10371,P007,Pen Pack,1,5.00,2024-04-12,C0120,Spain
+10372,P005,Water Bottle,1,18.00,2024-04-26,C0046,United Kingdom
+10373,P007,Pen Pack,1,5.00,2024-04-10,C0118,United Kingdom
+10374,P006,Desk Lamp,1,32.00,2024-04-03,C0145,United Kingdom
+10374,P007,Pen Pack,2,5.00,2024-04-03,C0145,United Kingdom
+10374,P002,Canvas Tote,2,12.00,2024-04-03,C0145,United Kingdom
+10375,P001,Ceramic Mug,1,8.50,2024-04-23,C0017,France
+10376,P005,Water Bottle,1,18.00,2024-04-19,C0114,Germany
+10377,P003,Desk Plant,1,15.00,2024-04-17,C0059,United Kingdom
+10378,P001,Ceramic Mug,1,8.50,2024-04-08,C0008,Spain
+10379,P007,Pen Pack,1,5.00,2024-04-25,C0050,United Kingdom
+10379,P005,Water Bottle,2,18.00,2024-04-25,C0050,United Kingdom
+10380,P003,Desk Plant,1,15.00,2024-04-19,C0180,United Kingdom
+10381,P006,Desk Lamp,1,32.00,2024-04-05,C0090,United Kingdom
+10382,P007,Pen Pack,2,5.00,2024-04-15,C0130,United Kingdom
+10383,P001,Ceramic Mug,1,8.50,2024-04-07,C0024,United Kingdom
+10384,P008,Travel Cup,1,14.00,2024-04-20,C0047,United Kingdom
+10385,P006,Desk Lamp,1,32.00,2024-04-05,C0116,Netherlands
+10386,P004,Notebook Set,2,9.00,2024-04-10,C0102,United Kingdom
+10387,P003,Desk Plant,1,15.00,2024-04-04,C0157,United Kingdom
+10388,P002,Canvas Tote,1,12.00,2024-04-02,C0076,France
+10388,P005,Water Bottle,1,18.00,2024-04-02,C0076,France
+10389,P004,Notebook Set,2,9.00,2024-04-24,C0067,United Kingdom
+10390,P001,Ceramic Mug,1,8.50,2024-04-26,C0143,United Kingdom
+10391,P004,Notebook Set,2,9.00,2024-04-19,C0174,United Kingdom
+10392,P001,Ceramic Mug,2,8.50,2024-04-26,C0171,Germany
+10393,P004,Notebook Set,4,9.00,2024-04-04,C0106,United Kingdom
+10393,P002,Canvas Tote,2,12.00,2024-04-04,C0106,United Kingdom
+10394,P003,Desk Plant,1,15.00,2024-04-10,C0180,Germany
+10395,P001,Ceramic Mug,1,8.50,2024-04-23,C0093,Netherlands
+10396,P004,Notebook Set,1,9.00,2024-04-13,C0159,United Kingdom
+10397,P004,Notebook Set,1,9.00,2024-04-01,C0018,United Kingdom
+10398,P007,Pen Pack,1,5.00,2024-04-06,C0088,United Kingdom
+10398,P001,Ceramic Mug,1,8.50,2024-04-06,C0088,United Kingdom
+10399,P004,Notebook Set,1,9.00,2024-04-23,C0093,United Kingdom
+10400,P002,Canvas Tote,2,12.00,2024-04-21,C0015,United Kingdom
+10401,P004,Notebook Set,1,9.00,2024-05-19,C0157,Germany
+10402,P003,Desk Plant,2,15.00,2024-05-22,C0109,Netherlands
+10403,P003,Desk Plant,2,15.00,2024-05-12,C0171,United Kingdom
+10404,P002,Canvas Tote,1,12.00,2024-05-16,C0059,Spain
+10405,P003,Desk Plant,1,15.00,2024-05-08,C0061,France
+10406,P001,Ceramic Mug,1,8.50,2024-05-10,C0154,France
+10407,P001,Ceramic Mug,1,8.50,2024-05-06,C0145,Spain
+10408,P006,Desk Lamp,1,32.00,2024-05-09,C0123,Germany
+10409,P007,Pen Pack,2,5.00,2024-05-01,C0044,United Kingdom
+10410,P004,Notebook Set,1,9.00,2024-05-07,C0034,United Kingdom
+10411,P004,Notebook Set,2,9.00,2024-05-17,C0074,United Kingdom
+10412,P002,Canvas Tote,1,12.00,2024-05-01,C0097,France
+10413,P002,Canvas Tote,2,12.00,2024-05-02,C0119,United Kingdom
+10413,P002,Canvas Tote,1,12.00,2024-05-02,C0119,United Kingdom
+10414,P005,Water Bottle,2,18.00,2024-05-03,C0041,France
+10414,P001,Ceramic Mug,1,8.50,2024-05-03,C0041,France
+10415,P002,Canvas Tote,2,12.00,2024-05-22,C0108,United Kingdom
+10415,P005,Water Bottle,1,18.00,2024-05-22,C0108,United Kingdom
+10416,P007,Pen Pack,1,5.00,2024-05-18,C0079,Germany
+10416,P005,Water Bottle,1,18.00,2024-05-18,C0079,Germany
+10417,P001,Ceramic Mug,1,8.50,2024-05-26,C0151,United Kingdom
+10418,P004,Notebook Set,2,9.00,2024-05-20,C0015,Spain
+10419,P002,Canvas Tote,3,12.00,2024-05-17,C0158,United Kingdom
+10420,P008,Travel Cup,3,14.00,2024-05-04,C0124,France
+10420,P005,Water Bottle,3,18.00,2024-05-04,C0124,France
+10421,P001,Ceramic Mug,2,8.50,2024-05-11,C0129,France
+10422,P004,Notebook Set,1,9.00,2024-05-04,C0094,Netherlands
+10423,P005,Water Bottle,2,18.00,2024-05-06,C0134,United Kingdom
+10423,P003,Desk Plant,1,15.00,2024-05-06,C0134,United Kingdom
+10424,P007,Pen Pack,1,5.00,2024-05-02,C0023,United Kingdom
+10425,P004,Notebook Set,1,9.00,2024-05-22,C0085,United Kingdom
+10426,P007,Pen Pack,2,5.00,2024-05-04,C0123,United Kingdom
+10427,P002,Canvas Tote,1,12.00,2024-05-09,C0030,United Kingdom
+10428,P001,Ceramic Mug,2,8.50,2024-05-12,C0161,Germany
+10428,P004,Notebook Set,1,9.00,2024-05-12,C0161,Germany
+10429,P004,Notebook Set,1,9.00,2024-05-15,C0070,United Kingdom
+10430,P003,Desk Plant,2,15.00,2024-05-14,C0063,United Kingdom
+10431,P002,Canvas Tote,2,12.00,2024-05-06,C0092,France
+10432,P008,Travel Cup,1,14.00,2024-05-16,C0162,France
+10433,P005,Water Bottle,1,18.00,2024-05-08,C0116,Netherlands
+10434,P001,Ceramic Mug,4,8.50,2024-05-11,C0107,United Kingdom
+10435,P001,Ceramic Mug,1,8.50,2024-05-25,C0148,United Kingdom
+10436,P007,Pen Pack,2,5.00,2024-05-15,C0054,United Kingdom
+10437,P003,Desk Plant,2,15.00,2024-05-23,C0091,United Kingdom
+10437,P001,Ceramic Mug,3,8.50,2024-05-23,C0091,United Kingdom
+10438,P002,Canvas Tote,1,12.00,2024-05-20,C0133,United Kingdom
+10439,P004,Notebook Set,2,9.00,2024-05-19,C0072,United Kingdom
+10440,P007,Pen Pack,1,5.00,2024-05-12,C0052,United Kingdom
+10440,P006,Desk Lamp,1,32.00,2024-05-12,C0052,United Kingdom
+10441,P007,Pen Pack,2,5.00,2024-05-09,C0005,Spain
+10442,P001,Ceramic Mug,2,8.50,2024-05-04,C0128,United Kingdom
+10443,P004,Notebook Set,1,9.00,2024-05-26,C0142,United Kingdom
+10443,P001,Ceramic Mug,2,8.50,2024-05-26,C0142,United Kingdom
+10444,P005,Water Bottle,1,18.00,2024-05-20,C0099,United Kingdom
+10445,P007,Pen Pack,1,5.00,2024-05-24,C0057,United Kingdom
+10446,P006,Desk Lamp,1,32.00,2024-05-16,C0094,United Kingdom
+10447,P003,Desk Plant,2,15.00,2024-05-07,C0133,United Kingdom
+10448,P006,Desk Lamp,1,32.00,2024-05-02,C0127,Germany
+10449,P002,Canvas Tote,1,12.00,2024-05-15,C0110,Spain
+10450,P004,Notebook Set,2,9.00,2024-05-27,C0175,United Kingdom
+10451,P003,Desk Plant,1,15.00,2024-05-24,C0116,United Kingdom
+10452,P001,Ceramic Mug,1,8.50,2024-05-14,C0129,United Kingdom
+10453,P006,Desk Lamp,2,32.00,2024-05-09,C0009,United Kingdom
+10454,P001,Ceramic Mug,1,8.50,2024-05-24,C0101,United Kingdom
+10454,P007,Pen Pack,4,5.00,2024-05-24,C0101,United Kingdom
+10455,P002,Canvas Tote,1,12.00,2024-05-07,C0173,United Kingdom
+10456,P008,Travel Cup,1,14.00,2024-05-10,C0120,Spain
+10457,P001,Ceramic Mug,1,8.50,2024-05-05,C0097,Netherlands
+10458,P003,Desk Plant,2,15.00,2024-05-05,C0057,France
+10459,P006,Desk Lamp,2,32.00,2024-05-02,C0115,France
+10460,P005,Water Bottle,1,18.00,2024-05-19,C0120,United Kingdom
+10460,P002,Canvas Tote,4,12.00,2024-05-19,C0120,United Kingdom
+10461,P001,Ceramic Mug,4,8.50,2024-05-26,C0115,France
+10462,P003,Desk Plant,1,15.00,2024-05-02,C0061,United Kingdom
+10462,P001,Ceramic Mug,1,8.50,2024-05-02,C0061,United Kingdom
+10463,P002,Canvas Tote,1,12.00,2024-05-11,C0022,United Kingdom
+10464,P002,Canvas Tote,3,12.00,2024-05-12,C0012,Germany
+10465,P006,Desk Lamp,1,32.00,2024-05-04,C0072,Spain
+10465,P008,Travel Cup,1,14.00,2024-05-04,C0072,Spain
+10466,P006,Desk Lamp,1,32.00,2024-05-17,C0172,France
+10466,P008,Travel Cup,1,14.00,2024-05-17,C0172,France
+10466,P003,Desk Plant,1,15.00,2024-05-17,C0172,France
+10467,P003,Desk Plant,2,15.00,2024-05-09,C0101,Netherlands
+10468,P004,Notebook Set,1,9.00,2024-05-14,C0149,United Kingdom
+10469,P008,Travel Cup,3,14.00,2024-05-16,C0082,United Kingdom
+10469,P005,Water Bottle,2,18.00,2024-05-16,C0082,United Kingdom
+10469,P005,Water Bottle,1,18.00,2024-05-16,C0082,United Kingdom
+10470,P004,Notebook Set,1,9.00,2024-05-24,C0126,Netherlands
+10470,P006,Desk Lamp,1,32.00,2024-05-24,C0126,Netherlands
+10471,P004,Notebook Set,2,9.00,2024-05-12,C0118,France
+10472,P001,Ceramic Mug,1,8.50,2024-05-06,C0103,Spain
+10473,P001,Ceramic Mug,1,8.50,2024-05-08,C0164,United Kingdom
+10473,P002,Canvas Tote,1,12.00,2024-05-08,C0164,United Kingdom
+10474,P007,Pen Pack,1,5.00,2024-05-14,C0124,Germany
+10475,P003,Desk Plant,1,15.00,2024-05-23,C0162,United Kingdom
+10476,P001,Ceramic Mug,1,8.50,2024-05-05,C0170,Germany
+10477,P001,Ceramic Mug,2,8.50,2024-05-20,C0149,United Kingdom
+10478,P003,Desk Plant,2,15.00,2024-05-10,C0130,United Kingdom
+10478,P007,Pen Pack,1,5.00,2024-05-10,C0130,United Kingdom
+10479,P007,Pen Pack,3,5.00,2024-05-05,C0178,United Kingdom
+10480,P008,Travel Cup,1,14.00,2024-05-05,C0158,Germany
+10481,P002,Canvas Tote,1,12.00,2024-05-21,C0170,United Kingdom
+10481,P004,Notebook Set,1,9.00,2024-05-21,C0170,United Kingdom
+10482,P007,Pen Pack,1,5.00,2024-05-17,C0077,United Kingdom
+10483,P003,Desk Plant,1,15.00,2024-05-23,C0055,United Kingdom
+10483,P005,Water Bottle,1,18.00,2024-05-23,C0055,United Kingdom
+10484,P007,Pen Pack,1,5.00,2024-05-11,C0041,Spain
+10485,P005,Water Bottle,1,18.00,2024-05-04,C0116,United Kingdom
+10485,P001,Ceramic Mug,1,8.50,2024-05-04,C0116,United Kingdom
+10486,P002,Canvas Tote,1,12.00,2024-05-25,C0130,United Kingdom
+10486,P001,Ceramic Mug,1,8.50,2024-05-25,C0130,United Kingdom
+10487,P001,Ceramic Mug,2,8.50,2024-05-16,C0050,United Kingdom
+10488,P004,Notebook Set,2,9.00,2024-05-20,C0170,United Kingdom
+10488,P002,Canvas Tote,2,12.00,2024-05-20,C0170,United Kingdom
+10488,P004,Notebook Set,1,9.00,2024-05-20,C0170,United Kingdom
+10489,P003,Desk Plant,3,15.00,2024-05-21,C0114,United Kingdom
+10489,P003,Desk Plant,1,15.00,2024-05-21,C0114,United Kingdom
+10490,P004,Notebook Set,1,9.00,2024-05-03,C0141,United Kingdom
+10490,P001,Ceramic Mug,1,8.50,2024-05-03,C0141,United Kingdom
+10491,P002,Canvas Tote,2,12.00,2024-05-23,C0155,Netherlands
+10492,P004,Notebook Set,1,9.00,2024-05-02,C0113,Germany
+10493,P004,Notebook Set,1,9.00,2024-05-22,C0024,United Kingdom
+10494,P005,Water Bottle,2,18.00,2024-05-23,C0047,United Kingdom
+10495,P005,Water Bottle,2,18.00,2024-05-07,C0057,Netherlands
+10496,P007,Pen Pack,2,5.00,2024-05-22,C0074,United Kingdom
+10497,P007,Pen Pack,2,5.00,2024-05-08,C0144,United Kingdom
+10498,P006,Desk Lamp,1,32.00,2024-05-16,C0054,Germany
+10499,P005,Water Bottle,1,18.00,2024-05-10,C0107,United Kingdom
+10500,P003,Desk Plant,1,15.00,2024-05-19,C0128,United Kingdom
+10501,P003,Desk Plant,1,15.00,2024-06-24,C0049,United Kingdom
+10501,P003,Desk Plant,1,15.00,2024-06-24,C0049,United Kingdom
+10502,P001,Ceramic Mug,1,8.50,2024-06-23,C0161,Netherlands
+10503,P006,Desk Lamp,2,32.00,2024-06-05,C0020,United Kingdom
+10503,P004,Notebook Set,1,9.00,2024-06-05,C0020,United Kingdom
+10503,P002,Canvas Tote,1,12.00,2024-06-05,C0020,United Kingdom
+10504,P006,Desk Lamp,1,32.00,2024-06-13,C0142,United Kingdom
+10505,P001,Ceramic Mug,1,8.50,2024-06-23,C0067,United Kingdom
+10506,P004,Notebook Set,1,9.00,2024-06-02,C0169,United Kingdom
+10507,P002,Canvas Tote,2,12.00,2024-06-12,C0090,United Kingdom
+10508,P003,Desk Plant,1,15.00,2024-06-02,C0133,United Kingdom
+10508,P002,Canvas Tote,2,12.00,2024-06-02,C0133,United Kingdom
+10508,P007,Pen Pack,1,5.00,2024-06-02,C0133,United Kingdom
+10509,P001,Ceramic Mug,1,8.50,2024-06-26,C0139,United Kingdom
+10510,P001,Ceramic Mug,1,8.50,2024-06-10,C0115,United Kingdom
+10511,P007,Pen Pack,1,5.00,2024-06-13,C0037,United Kingdom
+10512,P001,Ceramic Mug,2,8.50,2024-06-11,C0050,Germany
+10513,P002,Canvas Tote,1,12.00,2024-06-13,C0060,Spain
+10514,P003,Desk Plant,1,15.00,2024-06-02,C0014,United Kingdom
+10515,P003,Desk Plant,2,15.00,2024-06-08,C0054,United Kingdom
+10515,P003,Desk Plant,1,15.00,2024-06-08,C0054,United Kingdom
+10516,P008,Travel Cup,2,14.00,2024-06-27,C0110,United Kingdom
+10517,P006,Desk Lamp,1,32.00,2024-06-24,C0023,United Kingdom
+10517,P001,Ceramic Mug,2,8.50,2024-06-24,C0023,United Kingdom
+10518,P005,Water Bottle,1,18.00,2024-06-25,C0138,United Kingdom
+10519,P003,Desk Plant,1,15.00,2024-06-07,C0090,United Kingdom
+10519,P007,Pen Pack,2,5.00,2024-06-07,C0090,United Kingdom
+10520,P003,Desk Plant,1,15.00,2024-06-05,C0126,United Kingdom
+10521,P001,Ceramic Mug,1,8.50,2024-06-20,C0076,Germany
+10522,P002,Canvas Tote,1,12.00,2024-06-07,C0032,United Kingdom
+10522,P003,Desk Plant,1,15.00,2024-06-07,C0032,United Kingdom
+10523,P007,Pen Pack,4,5.00,2024-06-07,C0020,Spain
+10524,P004,Notebook Set,1,9.00,2024-06-16,C0031,United Kingdom
+10524,P006,Desk Lamp,1,32.00,2024-06-16,C0031,United Kingdom
+10525,P001,Ceramic Mug,1,8.50,2024-06-01,C0029,United Kingdom
+10526,P005,Water Bottle,2,18.00,2024-06-18,C0031,United Kingdom
+10527,P001,Ceramic Mug,1,8.50,2024-06-02,C0054,France
+10528,P003,Desk Plant,3,15.00,2024-06-12,C0065,United Kingdom
+10528,P004,Notebook Set,2,9.00,2024-06-12,C0065,United Kingdom
+10529,P003,Desk Plant,1,15.00,2024-06-17,C0104,United Kingdom
+10529,P001,Ceramic Mug,2,8.50,2024-06-17,C0104,United Kingdom
+10530,P006,Desk Lamp,1,32.00,2024-06-15,C0088,United Kingdom
+10530,P007,Pen Pack,1,5.00,2024-06-15,C0088,United Kingdom
+10531,P002,Canvas Tote,2,12.00,2024-06-13,C0118,United Kingdom
+10532,P004,Notebook Set,2,9.00,2024-06-12,C0054,France
+10533,P006,Desk Lamp,1,32.00,2024-06-16,C0142,United Kingdom
+10534,P003,Desk Plant,1,15.00,2024-06-21,C0150,United Kingdom
+10535,P001,Ceramic Mug,1,8.50,2024-06-13,C0110,United Kingdom
+10536,P005,Water Bottle,1,18.00,2024-06-14,C0146,France
+10537,P001,Ceramic Mug,1,8.50,2024-06-08,C0095,United Kingdom
+10538,P001,Ceramic Mug,3,8.50,2024-06-16,C0163,United Kingdom
+10538,P007,Pen Pack,3,5.00,2024-06-16,C0163,United Kingdom
+10539,P003,Desk Plant,4,15.00,2024-06-26,C0074,United Kingdom
+10540,P003,Desk Plant,1,15.00,2024-06-07,C0148,United Kingdom
+10541,P002,Canvas Tote,1,12.00,2024-06-26,C0011,United Kingdom
+10542,P007,Pen Pack,4,5.00,2024-06-22,C0002,United Kingdom
+10543,P005,Water Bottle,1,18.00,2024-06-13,C0138,United Kingdom
+10544,P001,Ceramic Mug,1,8.50,2024-06-07,C0158,United Kingdom
+10545,P004,Notebook Set,1,9.00,2024-06-06,C0092,United Kingdom
+10546,P004,Notebook Set,1,9.00,2024-06-09,C0012,Spain
+10546,P007,Pen Pack,3,5.00,2024-06-09,C0012,Spain
+10546,P002,Canvas Tote,1,12.00,2024-06-09,C0012,Spain
+10547,P001,Ceramic Mug,1,8.50,2024-06-05,C0133,United Kingdom
+10548,P006,Desk Lamp,1,32.00,2024-06-15,C0118,United Kingdom
+10549,P007,Pen Pack,2,5.00,2024-06-23,C0180,United Kingdom
+10550,P008,Travel Cup,1,14.00,2024-06-04,C0123,Germany
+10550,P001,Ceramic Mug,1,8.50,2024-06-04,C0123,Germany
+10551,P004,Notebook Set,1,9.00,2024-06-22,C0139,United Kingdom
+10552,P001,Ceramic Mug,1,8.50,2024-06-27,C0164,Spain
+10552,P003,Desk Plant,1,15.00,2024-06-27,C0164,Spain
+10553,P003,Desk Plant,3,15.00,2024-06-25,C0034,France
+10553,P003,Desk Plant,2,15.00,2024-06-25,C0034,France
+10553,P008,Travel Cup,1,14.00,2024-06-25,C0034,France
+10554,P005,Water Bottle,1,18.00,2024-06-08,C0179,Germany
+10555,P005,Water Bottle,1,18.00,2024-06-06,C0132,United Kingdom
+10556,P001,Ceramic Mug,1,8.50,2024-06-27,C0014,United Kingdom
+10556,P003,Desk Plant,1,15.00,2024-06-27,C0014,United Kingdom
+10556,P007,Pen Pack,2,5.00,2024-06-27,C0014,United Kingdom
+10557,P001,Ceramic Mug,2,8.50,2024-06-01,C0140,France
+10558,P005,Water Bottle,1,18.00,2024-06-13,C0100,Netherlands
+10559,P005,Water Bottle,1,18.00,2024-06-01,C0086,Netherlands
+10560,P001,Ceramic Mug,1,8.50,2024-06-13,C0077,Netherlands
+10561,P003,Desk Plant,3,15.00,2024-06-12,C0120,Spain
+10562,P005,Water Bottle,1,18.00,2024-06-24,C0004,Spain
+10563,P007,Pen Pack,3,5.00,2024-06-04,C0095,Spain
+10563,P005,Water Bottle,1,18.00,2024-06-04,C0095,Spain
+10564,P005,Water Bottle,2,18.00,2024-06-24,C0027,United Kingdom
+10564,P007,Pen Pack,3,5.00,2024-06-24,C0027,United Kingdom
+10565,P005,Water Bottle,1,18.00,2024-06-06,C0127,United Kingdom
+10566,P001,Ceramic Mug,1,8.50,2024-06-05,C0085,Spain
+10567,P003,Desk Plant,1,15.00,2024-06-09,C0154,France
+10568,P002,Canvas Tote,1,12.00,2024-06-12,C0140,United Kingdom
+10569,P007,Pen Pack,1,5.00,2024-06-12,C0010,Netherlands
+10570,P001,Ceramic Mug,1,8.50,2024-06-15,C0039,Spain
+10571,P002,Canvas Tote,1,12.00,2024-06-25,C0003,France
+10572,P008,Travel Cup,2,14.00,2024-06-15,C0085,France
+10573,P006,Desk Lamp,2,32.00,2024-06-26,C0023,Germany
+10574,P003,Desk Plant,1,15.00,2024-06-19,C0040,United Kingdom
+10575,P007,Pen Pack,1,5.00,2024-06-10,C0176,United Kingdom
+10576,P004,Notebook Set,1,9.00,2024-06-24,C0167,United Kingdom
+10576,P002,Canvas Tote,1,12.00,2024-06-24,C0167,United Kingdom
+10577,P003,Desk Plant,1,15.00,2024-06-26,C0176,Netherlands
+10578,P008,Travel Cup,1,14.00,2024-06-21,C0065,Netherlands
+10578,P001,Ceramic Mug,1,8.50,2024-06-21,C0065,Netherlands
+10579,P001,Ceramic Mug,1,8.50,2024-06-22,C0014,Germany
+10580,P001,Ceramic Mug,2,8.50,2024-06-12,C0112,United Kingdom
+10581,P003,Desk Plant,2,15.00,2024-06-13,C0158,United Kingdom
+10581,P008,Travel Cup,2,14.00,2024-06-13,C0158,United Kingdom
+10582,P006,Desk Lamp,2,32.00,2024-06-09,C0035,Netherlands
+10583,P001,Ceramic Mug,2,8.50,2024-06-16,C0148,Spain
+10584,P002,Canvas Tote,3,12.00,2024-06-25,C0146,Germany
+10584,P003,Desk Plant,2,15.00,2024-06-25,C0146,Germany
+10585,P005,Water Bottle,2,18.00,2024-06-07,C0092,Netherlands
+10586,P007,Pen Pack,2,5.00,2024-06-18,C0173,United Kingdom
+10586,P008,Travel Cup,1,14.00,2024-06-18,C0173,United Kingdom
+10587,P002,Canvas Tote,3,12.00,2024-06-23,C0147,Germany
+10588,P008,Travel Cup,3,14.00,2024-06-27,C0144,United Kingdom
+10589,P008,Travel Cup,1,14.00,2024-06-27,C0015,United Kingdom
+10590,P002,Canvas Tote,1,12.00,2024-06-16,C0015,United Kingdom
+10590,P001,Ceramic Mug,1,8.50,2024-06-16,C0015,United Kingdom
+10591,P002,Canvas Tote,1,12.00,2024-06-02,C0063,United Kingdom
+10592,P002,Canvas Tote,1,12.00,2024-06-08,C0128,Spain
+10592,P005,Water Bottle,1,18.00,2024-06-08,C0128,Spain
+10592,P001,Ceramic Mug,1,8.50,2024-06-08,C0128,Spain
+10593,P003,Desk Plant,2,15.00,2024-06-24,C0147,Spain
+10594,P005,Water Bottle,1,18.00,2024-06-08,C0081,United Kingdom
+10595,P004,Notebook Set,1,9.00,2024-06-01,C0003,United Kingdom
+10595,P003,Desk Plant,1,15.00,2024-06-01,C0003,United Kingdom
+10596,P002,Canvas Tote,1,12.00,2024-06-19,C0179,United Kingdom
+10597,P002,Canvas Tote,2,12.00,2024-06-12,C0052,United Kingdom
+10597,P001,Ceramic Mug,1,8.50,2024-06-12,C0052,United Kingdom
+10598,P005,Water Bottle,1,18.00,2024-06-03,C0022,France
+10599,P004,Notebook Set,1,9.00,2024-06-06,C0041,Germany
+10600,P006,Desk Lamp,1,32.00,2024-06-24,C0035,United Kingdom
+10601,P003,Desk Plant,1,15.00,2024-07-25,C0013,United Kingdom
+10602,P007,Pen Pack,1,5.00,2024-07-05,C0011,Netherlands
+10603,P004,Notebook Set,1,9.00,2024-07-08,C0014,Spain
+10604,P005,Water Bottle,1,18.00,2024-07-10,C0160,United Kingdom
+10604,P007,Pen Pack,1,5.00,2024-07-10,C0160,United Kingdom
+10604,P001,Ceramic Mug,1,8.50,2024-07-10,C0160,United Kingdom
+10605,P003,Desk Plant,1,15.00,2024-07-17,C0119,France
+10606,P002,Canvas Tote,2,12.00,2024-07-16,C0158,France
+10607,P007,Pen Pack,1,5.00,2024-07-08,C0037,France
+10608,P002,Canvas Tote,2,12.00,2024-07-12,C0077,United Kingdom
+10609,P003,Desk Plant,2,15.00,2024-07-03,C0175,United Kingdom
+10610,P003,Desk Plant,1,15.00,2024-07-15,C0084,France
+10611,P001,Ceramic Mug,1,8.50,2024-07-04,C0159,United Kingdom
+10611,P001,Ceramic Mug,1,8.50,2024-07-04,C0159,United Kingdom
+10612,P004,Notebook Set,1,9.00,2024-07-23,C0162,United Kingdom
+10613,P005,Water Bottle,1,18.00,2024-07-25,C0111,United Kingdom
+10613,P001,Ceramic Mug,4,8.50,2024-07-25,C0111,United Kingdom
+10614,P001,Ceramic Mug,1,8.50,2024-07-25,C0075,Germany
+10615,P007,Pen Pack,1,5.00,2024-07-11,C0030,United Kingdom
+10616,P004,Notebook Set,3,9.00,2024-07-02,C0017,United Kingdom
+10617,P001,Ceramic Mug,1,8.50,2024-07-19,C0121,United Kingdom
+10618,P005,Water Bottle,1,18.00,2024-07-01,C0179,United Kingdom
+10618,P001,Ceramic Mug,1,8.50,2024-07-01,C0179,United Kingdom
+10619,P007,Pen Pack,1,5.00,2024-07-12,C0158,Germany
+10620,P005,Water Bottle,1,18.00,2024-07-20,C0105,United Kingdom
+10621,P002,Canvas Tote,1,12.00,2024-07-11,C0078,United Kingdom
+10622,P004,Notebook Set,1,9.00,2024-07-19,C0008,Germany
+10623,P003,Desk Plant,1,15.00,2024-07-27,C0040,France
+10624,P003,Desk Plant,2,15.00,2024-07-27,C0135,United Kingdom
+10625,P003,Desk Plant,2,15.00,2024-07-05,C0133,United Kingdom
+10625,P003,Desk Plant,1,15.00,2024-07-05,C0133,United Kingdom
+10626,P005,Water Bottle,1,18.00,2024-07-07,C0020,France
+10627,P005,Water Bottle,2,18.00,2024-07-14,C0094,Netherlands
+10628,P007,Pen Pack,1,5.00,2024-07-08,C0093,Netherlands
+10628,P005,Water Bottle,2,18.00,2024-07-08,C0093,Netherlands
+10629,P003,Desk Plant,1,15.00,2024-07-12,C0073,United Kingdom
+10630,P003,Desk Plant,1,15.00,2024-07-27,C0101,United Kingdom
+10631,P004,Notebook Set,3,9.00,2024-07-15,C0003,United Kingdom
+10632,P001,Ceramic Mug,1,8.50,2024-07-13,C0091,United Kingdom
+10632,P007,Pen Pack,1,5.00,2024-07-13,C0091,United Kingdom
+10633,P004,Notebook Set,3,9.00,2024-07-04,C0166,United Kingdom
+10634,P007,Pen Pack,3,5.00,2024-07-21,C0070,United Kingdom
+10635,P004,Notebook Set,1,9.00,2024-07-16,C0109,France
+10636,P004,Notebook Set,1,9.00,2024-07-23,C0161,France
+10637,P005,Water Bottle,1,18.00,2024-07-16,C0129,United Kingdom
+10638,P003,Desk Plant,1,15.00,2024-07-10,C0144,Germany
+10639,P005,Water Bottle,1,18.00,2024-07-20,C0047,United Kingdom
+10639,P002,Canvas Tote,2,12.00,2024-07-20,C0047,United Kingdom
+10639,P004,Notebook Set,3,9.00,2024-07-20,C0047,United Kingdom
+10640,P001,Ceramic Mug,3,8.50,2024-07-25,C0056,Germany
+10641,P005,Water Bottle,1,18.00,2024-07-13,C0155,Spain
+10642,P004,Notebook Set,2,9.00,2024-07-07,C0133,United Kingdom
+10643,P001,Ceramic Mug,2,8.50,2024-07-11,C0072,United Kingdom
+10643,P002,Canvas Tote,1,12.00,2024-07-11,C0072,United Kingdom
+10644,P005,Water Bottle,1,18.00,2024-07-25,C0124,United Kingdom
+10645,P001,Ceramic Mug,1,8.50,2024-07-27,C0105,United Kingdom
+10646,P006,Desk Lamp,1,32.00,2024-07-27,C0164,United Kingdom
+10647,P007,Pen Pack,1,5.00,2024-07-13,C0097,United Kingdom
+10648,P005,Water Bottle,1,18.00,2024-07-03,C0065,France
+10649,P001,Ceramic Mug,2,8.50,2024-07-08,C0155,France
+10650,P007,Pen Pack,1,5.00,2024-07-07,C0164,United Kingdom
+10651,P001,Ceramic Mug,1,8.50,2024-07-09,C0042,United Kingdom
+10651,P004,Notebook Set,1,9.00,2024-07-09,C0042,United Kingdom
+10651,P001,Ceramic Mug,1,8.50,2024-07-09,C0042,United Kingdom
+10652,P003,Desk Plant,3,15.00,2024-07-15,C0164,United Kingdom
+10653,P004,Notebook Set,2,9.00,2024-07-09,C0172,United Kingdom
+10654,P001,Ceramic Mug,1,8.50,2024-07-18,C0095,United Kingdom
+10654,P005,Water Bottle,1,18.00,2024-07-18,C0095,United Kingdom
+10655,P008,Travel Cup,3,14.00,2024-07-27,C0153,United Kingdom
+10656,P007,Pen Pack,2,5.00,2024-07-18,C0124,United Kingdom
+10657,P003,Desk Plant,1,15.00,2024-07-09,C0083,United Kingdom
+10657,P001,Ceramic Mug,3,8.50,2024-07-09,C0083,United Kingdom
+10658,P002,Canvas Tote,1,12.00,2024-07-25,C0073,Germany
+10659,P001,Ceramic Mug,1,8.50,2024-07-10,C0048,Germany
+10660,P001,Ceramic Mug,1,8.50,2024-07-19,C0146,Germany
+10660,P007,Pen Pack,1,5.00,2024-07-19,C0146,Germany
+10661,P001,Ceramic Mug,1,8.50,2024-07-01,C0015,United Kingdom
+10662,P007,Pen Pack,1,5.00,2024-07-03,C0016,Germany
+10662,P007,Pen Pack,1,5.00,2024-07-03,C0016,Germany
+10663,P002,Canvas Tote,3,12.00,2024-07-16,C0154,United Kingdom
+10664,P003,Desk Plant,1,15.00,2024-07-10,C0144,United Kingdom
+10665,P005,Water Bottle,2,18.00,2024-07-13,C0116,United Kingdom
+10665,P008,Travel Cup,3,14.00,2024-07-13,C0116,United Kingdom
+10666,P007,Pen Pack,1,5.00,2024-07-08,C0114,United Kingdom
+10667,P005,Water Bottle,4,18.00,2024-07-12,C0081,United Kingdom
+10668,P001,Ceramic Mug,1,8.50,2024-07-12,C0094,France
+10669,P001,Ceramic Mug,2,8.50,2024-07-05,C0110,United Kingdom
+10669,P002,Canvas Tote,1,12.00,2024-07-05,C0110,United Kingdom
+10670,P004,Notebook Set,1,9.00,2024-07-25,C0120,Spain
+10670,P001,Ceramic Mug,1,8.50,2024-07-25,C0120,Spain
+10671,P004,Notebook Set,1,9.00,2024-07-08,C0067,United Kingdom
+10671,P001,Ceramic Mug,1,8.50,2024-07-08,C0067,United Kingdom
+10672,P002,Canvas Tote,4,12.00,2024-07-04,C0034,France
+10673,P003,Desk Plant,1,15.00,2024-07-21,C0067,United Kingdom
+10674,P008,Travel Cup,1,14.00,2024-07-26,C0024,United Kingdom
+10674,P003,Desk Plant,1,15.00,2024-07-26,C0024,United Kingdom
+10675,P004,Notebook Set,1,9.00,2024-07-14,C0022,Germany
+10676,P004,Notebook Set,1,9.00,2024-07-07,C0150,United Kingdom
+10676,P005,Water Bottle,2,18.00,2024-07-07,C0150,United Kingdom
+10677,P005,Water Bottle,1,18.00,2024-07-10,C0134,United Kingdom
+10677,P008,Travel Cup,2,14.00,2024-07-10,C0134,United Kingdom
+10678,P001,Ceramic Mug,1,8.50,2024-07-26,C0159,United Kingdom
+10679,P005,Water Bottle,2,18.00,2024-07-25,C0038,United Kingdom
+10680,P002,Canvas Tote,2,12.00,2024-07-06,C0003,Germany
+10680,P008,Travel Cup,1,14.00,2024-07-06,C0003,Germany
+10680,P001,Ceramic Mug,1,8.50,2024-07-06,C0003,Germany
+10681,P003,Desk Plant,1,15.00,2024-07-23,C0057,Netherlands
+10682,P006,Desk Lamp,1,32.00,2024-07-16,C0125,Germany
+10683,P006,Desk Lamp,2,32.00,2024-07-23,C0179,United Kingdom
+10684,P001,Ceramic Mug,1,8.50,2024-07-16,C0167,United Kingdom
+10685,P004,Notebook Set,1,9.00,2024-07-13,C0163,France
+10686,P008,Travel Cup,1,14.00,2024-07-15,C0034,United Kingdom
+10687,P003,Desk Plant,1,15.00,2024-07-23,C0133,United Kingdom
+10688,P007,Pen Pack,1,5.00,2024-07-17,C0139,United Kingdom
+10689,P005,Water Bottle,1,18.00,2024-07-24,C0023,Netherlands
+10690,P007,Pen Pack,1,5.00,2024-07-13,C0156,United Kingdom
+10691,P001,Ceramic Mug,1,8.50,2024-07-18,C0040,United Kingdom
+10692,P003,Desk Plant,3,15.00,2024-07-19,C0031,France
+10693,P005,Water Bottle,1,18.00,2024-07-22,C0123,France
+10694,P003,Desk Plant,2,15.00,2024-07-07,C0104,United Kingdom
+10695,P006,Desk Lamp,1,32.00,2024-07-04,C0127,Germany
+10695,P005,Water Bottle,1,18.00,2024-07-04,C0127,Germany
+10696,P002,Canvas Tote,1,12.00,2024-07-23,C0110,France
+10696,P005,Water Bottle,4,18.00,2024-07-23,C0110,France
+10697,P008,Travel Cup,1,14.00,2024-07-26,C0118,Germany
+10698,P004,Notebook Set,1,9.00,2024-07-20,C0120,Netherlands
+10698,P008,Travel Cup,1,14.00,2024-07-20,C0120,Netherlands
+10699,P004,Notebook Set,1,9.00,2024-07-26,C0156,United Kingdom
+10700,P001,Ceramic Mug,1,8.50,2024-07-09,C0105,United Kingdom
+10701,P008,Travel Cup,4,14.00,2024-08-04,C0049,United Kingdom
+10701,P003,Desk Plant,3,15.00,2024-08-04,C0049,United Kingdom
+10702,P004,Notebook Set,2,9.00,2024-08-13,C0128,France
+10703,P004,Notebook Set,1,9.00,2024-08-13,C0061,Netherlands
+10703,P007,Pen Pack,1,5.00,2024-08-13,C0061,Netherlands
+10703,P005,Water Bottle,1,18.00,2024-08-13,C0061,Netherlands
+10704,P007,Pen Pack,2,5.00,2024-08-06,C0159,United Kingdom
+10704,P002,Canvas Tote,1,12.00,2024-08-06,C0159,United Kingdom
+10705,P005,Water Bottle,4,18.00,2024-08-04,C0164,United Kingdom
+10706,P001,Ceramic Mug,1,8.50,2024-08-23,C0053,Spain
+10707,P005,Water Bottle,1,18.00,2024-08-21,C0161,Spain
+10708,P003,Desk Plant,2,15.00,2024-08-12,C0144,Germany
+10709,P001,Ceramic Mug,1,8.50,2024-08-20,C0014,United Kingdom
+10709,P004,Notebook Set,2,9.00,2024-08-20,C0014,United Kingdom
+10709,P004,Notebook Set,2,9.00,2024-08-20,C0014,United Kingdom
+10710,P008,Travel Cup,1,14.00,2024-08-19,C0057,Germany
+10711,P002,Canvas Tote,1,12.00,2024-08-03,C0178,United Kingdom
+10712,P005,Water Bottle,1,18.00,2024-08-19,C0049,United Kingdom
+10712,P001,Ceramic Mug,2,8.50,2024-08-19,C0049,United Kingdom
+10712,P005,Water Bottle,3,18.00,2024-08-19,C0049,United Kingdom
+10713,P003,Desk Plant,2,15.00,2024-08-21,C0147,United Kingdom
+10714,P008,Travel Cup,2,14.00,2024-08-16,C0137,Germany
+10715,P008,Travel Cup,3,14.00,2024-08-17,C0100,Netherlands
+10716,P001,Ceramic Mug,1,8.50,2024-08-16,C0023,Germany
+10717,P001,Ceramic Mug,2,8.50,2024-08-12,C0011,Germany
+10718,P006,Desk Lamp,1,32.00,2024-08-12,C0177,United Kingdom
+10719,P005,Water Bottle,3,18.00,2024-08-06,C0171,United Kingdom
+10720,P005,Water Bottle,4,18.00,2024-08-11,C0004,United Kingdom
+10720,P003,Desk Plant,1,15.00,2024-08-11,C0004,United Kingdom
+10721,P003,Desk Plant,1,15.00,2024-08-14,C0041,United Kingdom
+10721,P004,Notebook Set,1,9.00,2024-08-14,C0041,United Kingdom
+10722,P006,Desk Lamp,4,32.00,2024-08-25,C0004,United Kingdom
+10723,P002,Canvas Tote,2,12.00,2024-08-10,C0170,United Kingdom
+10724,P004,Notebook Set,1,9.00,2024-08-04,C0138,United Kingdom
+10724,P004,Notebook Set,3,9.00,2024-08-04,C0138,United Kingdom
+10725,P004,Notebook Set,1,9.00,2024-08-12,C0048,United Kingdom
+10725,P003,Desk Plant,1,15.00,2024-08-12,C0048,United Kingdom
+10726,P001,Ceramic Mug,1,8.50,2024-08-03,C0120,United Kingdom
+10726,P004,Notebook Set,1,9.00,2024-08-03,C0120,United Kingdom
+10727,P005,Water Bottle,1,18.00,2024-08-05,C0036,United Kingdom
+10728,P004,Notebook Set,2,9.00,2024-08-02,C0144,United Kingdom
+10728,P003,Desk Plant,1,15.00,2024-08-02,C0144,United Kingdom
+10729,P001,Ceramic Mug,1,8.50,2024-08-27,C0168,Spain
+10730,P002,Canvas Tote,1,12.00,2024-08-27,C0141,United Kingdom
+10731,P002,Canvas Tote,1,12.00,2024-08-13,C0144,France
+10732,P001,Ceramic Mug,1,8.50,2024-08-17,C0122,France
+10732,P003,Desk Plant,1,15.00,2024-08-17,C0122,France
+10733,P001,Ceramic Mug,2,8.50,2024-08-01,C0065,United Kingdom
+10734,P003,Desk Plant,1,15.00,2024-08-27,C0142,Spain
+10735,P003,Desk Plant,1,15.00,2024-08-24,C0109,Spain
+10736,P007,Pen Pack,1,5.00,2024-08-21,C0026,Spain
+10737,P007,Pen Pack,1,5.00,2024-08-08,C0124,Spain
+10737,P002,Canvas Tote,1,12.00,2024-08-08,C0124,Spain
+10738,P002,Canvas Tote,1,12.00,2024-08-09,C0075,United Kingdom
+10739,P003,Desk Plant,2,15.00,2024-08-19,C0150,United Kingdom
+10739,P006,Desk Lamp,2,32.00,2024-08-19,C0150,United Kingdom
+10740,P001,Ceramic Mug,3,8.50,2024-08-02,C0078,United Kingdom
+10741,P001,Ceramic Mug,1,8.50,2024-08-21,C0070,United Kingdom
+10742,P002,Canvas Tote,1,12.00,2024-08-26,C0042,United Kingdom
+10742,P007,Pen Pack,3,5.00,2024-08-26,C0042,United Kingdom
+10743,P001,Ceramic Mug,2,8.50,2024-08-17,C0168,Netherlands
+10744,P006,Desk Lamp,1,32.00,2024-08-14,C0129,Spain
+10744,P001,Ceramic Mug,1,8.50,2024-08-14,C0129,Spain
+10745,P001,Ceramic Mug,1,8.50,2024-08-14,C0135,United Kingdom
+10745,P007,Pen Pack,1,5.00,2024-08-14,C0135,United Kingdom
+10746,P001,Ceramic Mug,3,8.50,2024-08-22,C0043,United Kingdom
+10747,P003,Desk Plant,1,15.00,2024-08-10,C0043,United Kingdom
+10747,P007,Pen Pack,1,5.00,2024-08-10,C0043,United Kingdom
+10748,P001,Ceramic Mug,1,8.50,2024-08-01,C0176,United Kingdom
+10749,P005,Water Bottle,1,18.00,2024-08-10,C0160,Germany
+10750,P008,Travel Cup,3,14.00,2024-08-09,C0053,United Kingdom
+10751,P006,Desk Lamp,2,32.00,2024-08-26,C0120,Netherlands
+10752,P001,Ceramic Mug,1,8.50,2024-08-14,C0095,France
+10753,P005,Water Bottle,1,18.00,2024-08-09,C0075,United Kingdom
+10754,P003,Desk Plant,1,15.00,2024-08-21,C0050,France
+10754,P003,Desk Plant,1,15.00,2024-08-21,C0050,France
+10755,P003,Desk Plant,2,15.00,2024-08-18,C0105,United Kingdom
+10756,P001,Ceramic Mug,1,8.50,2024-08-19,C0061,United Kingdom
+10757,P008,Travel Cup,1,14.00,2024-08-11,C0056,Germany
+10758,P004,Notebook Set,1,9.00,2024-08-07,C0151,United Kingdom
+10758,P006,Desk Lamp,1,32.00,2024-08-07,C0151,United Kingdom
+10759,P007,Pen Pack,2,5.00,2024-08-09,C0061,United Kingdom
+10760,P003,Desk Plant,1,15.00,2024-08-19,C0067,United Kingdom
+10760,P001,Ceramic Mug,1,8.50,2024-08-19,C0067,United Kingdom
+10761,P002,Canvas Tote,2,12.00,2024-08-26,C0009,United Kingdom
+10761,P004,Notebook Set,1,9.00,2024-08-26,C0009,United Kingdom
+10761,P001,Ceramic Mug,1,8.50,2024-08-26,C0009,United Kingdom
+10762,P005,Water Bottle,1,18.00,2024-08-17,C0102,United Kingdom
+10762,P002,Canvas Tote,1,12.00,2024-08-17,C0102,United Kingdom
+10763,P002,Canvas Tote,1,12.00,2024-08-05,C0149,United Kingdom
+10764,P001,Ceramic Mug,1,8.50,2024-08-17,C0048,United Kingdom
+10765,P006,Desk Lamp,1,32.00,2024-08-09,C0165,United Kingdom
+10766,P001,Ceramic Mug,1,8.50,2024-08-08,C0110,United Kingdom
+10767,P007,Pen Pack,1,5.00,2024-08-27,C0002,United Kingdom
+10768,P007,Pen Pack,1,5.00,2024-08-21,C0069,Spain
+10769,P004,Notebook Set,1,9.00,2024-08-04,C0111,France
+10770,P007,Pen Pack,1,5.00,2024-08-06,C0056,United Kingdom
+10770,P002,Canvas Tote,2,12.00,2024-08-06,C0056,United Kingdom
+10771,P003,Desk Plant,1,15.00,2024-08-03,C0039,France
+10771,P007,Pen Pack,1,5.00,2024-08-03,C0039,France
+10772,P001,Ceramic Mug,2,8.50,2024-08-22,C0098,United Kingdom
+10772,P004,Notebook Set,1,9.00,2024-08-22,C0098,United Kingdom
+10773,P008,Travel Cup,1,14.00,2024-08-03,C0011,United Kingdom
+10774,P004,Notebook Set,1,9.00,2024-08-17,C0081,France
+10775,P002,Canvas Tote,1,12.00,2024-08-05,C0111,France
+10776,P008,Travel Cup,1,14.00,2024-08-06,C0051,Spain
+10777,P007,Pen Pack,1,5.00,2024-08-14,C0009,Germany
+10777,P003,Desk Plant,1,15.00,2024-08-14,C0009,Germany
+10778,P003,Desk Plant,2,15.00,2024-08-25,C0017,United Kingdom
+10779,P004,Notebook Set,1,9.00,2024-08-06,C0040,France
+10780,P002,Canvas Tote,2,12.00,2024-08-19,C0085,United Kingdom
+10781,P002,Canvas Tote,3,12.00,2024-08-24,C0093,United Kingdom
+10781,P002,Canvas Tote,2,12.00,2024-08-24,C0093,United Kingdom
+10782,P004,Notebook Set,1,9.00,2024-08-26,C0160,United Kingdom
+10783,P006,Desk Lamp,4,32.00,2024-08-27,C0109,France
+10784,P008,Travel Cup,1,14.00,2024-08-03,C0175,United Kingdom
+10785,P005,Water Bottle,2,18.00,2024-08-23,C0165,Germany
+10786,P001,Ceramic Mug,1,8.50,2024-08-25,C0085,United Kingdom
+10787,P004,Notebook Set,1,9.00,2024-08-06,C0113,United Kingdom
+10788,P004,Notebook Set,1,9.00,2024-08-17,C0062,United Kingdom
+10788,P005,Water Bottle,1,18.00,2024-08-17,C0062,United Kingdom
+10788,P004,Notebook Set,1,9.00,2024-08-17,C0062,United Kingdom
+10789,P003,Desk Plant,1,15.00,2024-08-20,C0074,United Kingdom
+10789,P004,Notebook Set,1,9.00,2024-08-20,C0074,United Kingdom
+10790,P005,Water Bottle,1,18.00,2024-08-08,C0097,United Kingdom
+10790,P004,Notebook Set,2,9.00,2024-08-08,C0097,United Kingdom
+10791,P006,Desk Lamp,1,32.00,2024-08-07,C0150,United Kingdom
+10792,P002,Canvas Tote,1,12.00,2024-08-18,C0022,United Kingdom
+10793,P004,Notebook Set,1,9.00,2024-08-21,C0110,United Kingdom
+10793,P002,Canvas Tote,1,12.00,2024-08-21,C0110,United Kingdom
+10794,P002,Canvas Tote,2,12.00,2024-08-24,C0174,France
+10795,P001,Ceramic Mug,1,8.50,2024-08-26,C0049,Spain
+10795,P007,Pen Pack,1,5.00,2024-08-26,C0049,Spain
+10796,P006,Desk Lamp,1,32.00,2024-08-04,C0025,Germany
+10797,P002,Canvas Tote,1,12.00,2024-08-23,C0147,United Kingdom
+10798,P001,Ceramic Mug,1,8.50,2024-08-01,C0106,France
+10799,P001,Ceramic Mug,2,8.50,2024-08-07,C0087,United Kingdom
+10800,P002,Canvas Tote,1,12.00,2024-08-03,C0059,United Kingdom
+10801,P004,Notebook Set,1,9.00,2024-09-11,C0176,France
+10802,P005,Water Bottle,2,18.00,2024-09-11,C0158,Spain
+10802,P006,Desk Lamp,1,32.00,2024-09-11,C0158,Spain
+10803,P002,Canvas Tote,1,12.00,2024-09-08,C0018,United Kingdom
+10803,P002,Canvas Tote,1,12.00,2024-09-08,C0018,United Kingdom
+10803,P003,Desk Plant,1,15.00,2024-09-08,C0018,United Kingdom
+10804,P006,Desk Lamp,1,32.00,2024-09-19,C0024,United Kingdom
+10804,P003,Desk Plant,2,15.00,2024-09-19,C0024,United Kingdom
+10805,P001,Ceramic Mug,1,8.50,2024-09-13,C0157,United Kingdom
+10806,P008,Travel Cup,2,14.00,2024-09-03,C0028,France
+10807,P004,Notebook Set,1,9.00,2024-09-04,C0178,United Kingdom
+10808,P008,Travel Cup,1,14.00,2024-09-13,C0162,Netherlands
+10808,P008,Travel Cup,2,14.00,2024-09-13,C0162,Netherlands
+10808,P007,Pen Pack,1,5.00,2024-09-13,C0162,Netherlands
+10809,P007,Pen Pack,1,5.00,2024-09-07,C0168,United Kingdom
+10810,P007,Pen Pack,1,5.00,2024-09-06,C0161,United Kingdom
+10811,P002,Canvas Tote,1,12.00,2024-09-02,C0121,Germany
+10812,P002,Canvas Tote,2,12.00,2024-09-14,C0169,Germany
+10813,P006,Desk Lamp,1,32.00,2024-09-24,C0107,Germany
+10814,P001,Ceramic Mug,1,8.50,2024-09-21,C0159,United Kingdom
+10815,P002,Canvas Tote,1,12.00,2024-09-08,C0025,United Kingdom
+10815,P004,Notebook Set,1,9.00,2024-09-08,C0025,United Kingdom
+10816,P007,Pen Pack,1,5.00,2024-09-01,C0120,United Kingdom
+10817,P005,Water Bottle,2,18.00,2024-09-12,C0120,France
+10818,P004,Notebook Set,1,9.00,2024-09-09,C0099,United Kingdom
+10819,P007,Pen Pack,1,5.00,2024-09-01,C0109,United Kingdom
+10820,P001,Ceramic Mug,1,8.50,2024-09-02,C0150,United Kingdom
+10820,P005,Water Bottle,3,18.00,2024-09-02,C0150,United Kingdom
+10821,P004,Notebook Set,2,9.00,2024-09-03,C0171,United Kingdom
+10822,P007,Pen Pack,2,5.00,2024-09-17,C0047,United Kingdom
+10823,P002,Canvas Tote,1,12.00,2024-09-06,C0140,United Kingdom
+10824,P004,Notebook Set,1,9.00,2024-09-05,C0052,United Kingdom
+10825,P005,Water Bottle,3,18.00,2024-09-25,C0080,United Kingdom
+10826,P003,Desk Plant,2,15.00,2024-09-06,C0129,United Kingdom
+10826,P008,Travel Cup,1,14.00,2024-09-06,C0129,United Kingdom
+10827,P006,Desk Lamp,1,32.00,2024-09-12,C0168,Netherlands
+10828,P008,Travel Cup,1,14.00,2024-09-14,C0024,Germany
+10829,P006,Desk Lamp,3,32.00,2024-09-06,C0041,Spain
+10830,P001,Ceramic Mug,1,8.50,2024-09-09,C0174,Netherlands
+10830,P002,Canvas Tote,3,12.00,2024-09-09,C0174,Netherlands
+10831,P004,Notebook Set,1,9.00,2024-09-01,C0115,Spain
+10831,P001,Ceramic Mug,2,8.50,2024-09-01,C0115,Spain
+10832,P005,Water Bottle,1,18.00,2024-09-02,C0008,United Kingdom
+10832,P007,Pen Pack,1,5.00,2024-09-02,C0008,United Kingdom
+10833,P001,Ceramic Mug,1,8.50,2024-09-07,C0161,United Kingdom
+10834,P001,Ceramic Mug,3,8.50,2024-09-17,C0158,France
+10835,P001,Ceramic Mug,2,8.50,2024-09-25,C0070,United Kingdom
+10835,P003,Desk Plant,1,15.00,2024-09-25,C0070,United Kingdom
+10836,P004,Notebook Set,1,9.00,2024-09-01,C0110,United Kingdom
+10837,P001,Ceramic Mug,1,8.50,2024-09-15,C0109,United Kingdom
+10838,P003,Desk Plant,1,15.00,2024-09-14,C0172,United Kingdom
+10839,P004,Notebook Set,1,9.00,2024-09-19,C0140,United Kingdom
+10840,P001,Ceramic Mug,1,8.50,2024-09-11,C0024,Germany
+10841,P001,Ceramic Mug,1,8.50,2024-09-22,C0168,Germany
+10841,P001,Ceramic Mug,1,8.50,2024-09-22,C0168,Germany
+10842,P008,Travel Cup,2,14.00,2024-09-12,C0149,United Kingdom
+10843,P005,Water Bottle,2,18.00,2024-09-20,C0174,United Kingdom
+10844,P004,Notebook Set,1,9.00,2024-09-19,C0041,United Kingdom
+10844,P004,Notebook Set,3,9.00,2024-09-19,C0041,United Kingdom
+10845,P007,Pen Pack,1,5.00,2024-09-08,C0158,Germany
+10846,P004,Notebook Set,1,9.00,2024-09-09,C0112,United Kingdom
+10847,P002,Canvas Tote,1,12.00,2024-09-02,C0136,United Kingdom
+10847,P006,Desk Lamp,2,32.00,2024-09-02,C0136,United Kingdom
+10848,P003,Desk Plant,1,15.00,2024-09-26,C0082,United Kingdom
+10849,P006,Desk Lamp,1,32.00,2024-09-20,C0103,United Kingdom
+10850,P002,Canvas Tote,3,12.00,2024-09-12,C0132,United Kingdom
+10851,P005,Water Bottle,2,18.00,2024-09-17,C0124,France
+10852,P002,Canvas Tote,1,12.00,2024-09-02,C0113,France
+10853,P003,Desk Plant,1,15.00,2024-09-17,C0147,United Kingdom
+10854,P001,Ceramic Mug,4,8.50,2024-09-26,C0141,Spain
+10855,P001,Ceramic Mug,1,8.50,2024-09-12,C0103,United Kingdom
+10855,P001,Ceramic Mug,2,8.50,2024-09-12,C0103,United Kingdom
+10855,P005,Water Bottle,1,18.00,2024-09-12,C0103,United Kingdom
+10856,P007,Pen Pack,1,5.00,2024-09-07,C0155,Spain
+10857,P002,Canvas Tote,1,12.00,2024-09-16,C0124,United Kingdom
+10858,P007,Pen Pack,1,5.00,2024-09-24,C0104,United Kingdom
+10858,P005,Water Bottle,1,18.00,2024-09-24,C0104,United Kingdom
+10859,P005,Water Bottle,1,18.00,2024-09-20,C0016,France
+10859,P001,Ceramic Mug,2,8.50,2024-09-20,C0016,France
+10859,P001,Ceramic Mug,1,8.50,2024-09-20,C0016,France
+10860,P001,Ceramic Mug,3,8.50,2024-09-02,C0158,France
+10861,P003,Desk Plant,2,15.00,2024-09-01,C0044,Germany
+10862,P002,Canvas Tote,1,12.00,2024-09-11,C0109,United Kingdom
+10863,P004,Notebook Set,1,9.00,2024-09-13,C0125,Germany
+10864,P003,Desk Plant,2,15.00,2024-09-15,C0037,United Kingdom
+10865,P007,Pen Pack,4,5.00,2024-09-20,C0138,United Kingdom
+10866,P002,Canvas Tote,1,12.00,2024-09-22,C0110,United Kingdom
+10867,P007,Pen Pack,1,5.00,2024-09-13,C0112,United Kingdom
+10868,P004,Notebook Set,1,9.00,2024-09-11,C0159,Spain
+10869,P007,Pen Pack,3,5.00,2024-09-04,C0073,United Kingdom
+10869,P001,Ceramic Mug,3,8.50,2024-09-04,C0073,United Kingdom
+10870,P001,Ceramic Mug,2,8.50,2024-09-16,C0171,United Kingdom
+10871,P001,Ceramic Mug,2,8.50,2024-09-22,C0131,United Kingdom
+10871,P003,Desk Plant,2,15.00,2024-09-22,C0131,United Kingdom
+10872,P005,Water Bottle,1,18.00,2024-09-03,C0042,France
+10873,P005,Water Bottle,2,18.00,2024-09-13,C0069,Germany
+10874,P005,Water Bottle,1,18.00,2024-09-07,C0177,United Kingdom
+10875,P007,Pen Pack,1,5.00,2024-09-06,C0108,United Kingdom
+10876,P007,Pen Pack,1,5.00,2024-09-07,C0075,United Kingdom
+10877,P008,Travel Cup,2,14.00,2024-09-21,C0072,United Kingdom
+10878,P004,Notebook Set,2,9.00,2024-09-22,C0027,France
+10879,P007,Pen Pack,1,5.00,2024-09-18,C0039,United Kingdom
+10880,P004,Notebook Set,1,9.00,2024-09-27,C0156,France
+10880,P004,Notebook Set,1,9.00,2024-09-27,C0156,France
+10881,P008,Travel Cup,1,14.00,2024-09-25,C0083,United Kingdom
+10881,P004,Notebook Set,1,9.00,2024-09-25,C0083,United Kingdom
+10882,P003,Desk Plant,1,15.00,2024-09-24,C0094,United Kingdom
+10883,P001,Ceramic Mug,1,8.50,2024-09-17,C0143,Spain
+10884,P002,Canvas Tote,1,12.00,2024-09-27,C0108,United Kingdom
+10885,P002,Canvas Tote,3,12.00,2024-09-03,C0078,France
+10886,P004,Notebook Set,1,9.00,2024-09-10,C0090,United Kingdom
+10887,P003,Desk Plant,4,15.00,2024-09-15,C0125,United Kingdom
+10888,P001,Ceramic Mug,1,8.50,2024-09-03,C0105,France
+10889,P008,Travel Cup,1,14.00,2024-09-25,C0021,Netherlands
+10890,P003,Desk Plant,2,15.00,2024-09-06,C0121,Germany
+10890,P008,Travel Cup,3,14.00,2024-09-06,C0121,Germany
+10891,P007,Pen Pack,1,5.00,2024-09-07,C0103,United Kingdom
+10892,P003,Desk Plant,1,15.00,2024-09-22,C0134,United Kingdom
+10893,P002,Canvas Tote,4,12.00,2024-09-10,C0112,United Kingdom
+10893,P002,Canvas Tote,1,12.00,2024-09-10,C0112,United Kingdom
+10894,P001,Ceramic Mug,1,8.50,2024-09-27,C0026,United Kingdom
+10894,P004,Notebook Set,1,9.00,2024-09-27,C0026,United Kingdom
+10895,P007,Pen Pack,1,5.00,2024-09-13,C0030,United Kingdom
+10895,P001,Ceramic Mug,1,8.50,2024-09-13,C0030,United Kingdom
+10896,P001,Ceramic Mug,1,8.50,2024-09-03,C0147,United Kingdom
+10897,P001,Ceramic Mug,2,8.50,2024-09-03,C0074,France
+10898,P003,Desk Plant,1,15.00,2024-09-18,C0035,United Kingdom
+10898,P001,Ceramic Mug,1,8.50,2024-09-18,C0035,United Kingdom
+10899,P001,Ceramic Mug,1,8.50,2024-09-21,C0099,United Kingdom
+10900,P008,Travel Cup,2,14.00,2024-09-06,C0123,United Kingdom
+10901,P008,Travel Cup,4,14.00,2024-10-21,C0012,France
+10902,P007,Pen Pack,1,5.00,2024-10-16,C0144,Netherlands
+10903,P003,Desk Plant,1,15.00,2024-10-04,C0168,United Kingdom
+10904,P003,Desk Plant,1,15.00,2024-10-18,C0044,United Kingdom
+10905,P002,Canvas Tote,1,12.00,2024-10-02,C0148,United Kingdom
+10905,P001,Ceramic Mug,2,8.50,2024-10-02,C0148,United Kingdom
+10905,P003,Desk Plant,2,15.00,2024-10-02,C0148,United Kingdom
+10906,P004,Notebook Set,2,9.00,2024-10-09,C0059,Spain
+10906,P008,Travel Cup,1,14.00,2024-10-09,C0059,Spain
+10907,P003,Desk Plant,1,15.00,2024-10-10,C0055,United Kingdom
+10908,P002,Canvas Tote,2,12.00,2024-10-04,C0008,Spain
+10908,P001,Ceramic Mug,1,8.50,2024-10-04,C0008,Spain
+10909,P007,Pen Pack,1,5.00,2024-10-15,C0049,United Kingdom
+10909,P007,Pen Pack,1,5.00,2024-10-15,C0049,United Kingdom
+10910,P004,Notebook Set,1,9.00,2024-10-23,C0048,United Kingdom
+10911,P002,Canvas Tote,1,12.00,2024-10-20,C0080,Spain
+10912,P004,Notebook Set,1,9.00,2024-10-24,C0082,Germany
+10913,P001,Ceramic Mug,1,8.50,2024-10-02,C0068,United Kingdom
+10914,P001,Ceramic Mug,1,8.50,2024-10-17,C0043,France
+10915,P003,Desk Plant,1,15.00,2024-10-20,C0110,United Kingdom
+10916,P004,Notebook Set,2,9.00,2024-10-18,C0006,United Kingdom
+10917,P002,Canvas Tote,2,12.00,2024-10-10,C0170,United Kingdom
+10918,P001,Ceramic Mug,1,8.50,2024-10-27,C0099,United Kingdom
+10919,P003,Desk Plant,1,15.00,2024-10-04,C0100,United Kingdom
+10919,P001,Ceramic Mug,1,8.50,2024-10-04,C0100,United Kingdom
+10920,P002,Canvas Tote,1,12.00,2024-10-21,C0151,United Kingdom
+10920,P002,Canvas Tote,2,12.00,2024-10-21,C0151,United Kingdom
+10921,P003,Desk Plant,1,15.00,2024-10-08,C0104,Germany
+10922,P001,Ceramic Mug,1,8.50,2024-10-14,C0124,United Kingdom
+10923,P007,Pen Pack,2,5.00,2024-10-04,C0165,United Kingdom
+10924,P008,Travel Cup,3,14.00,2024-10-24,C0132,United Kingdom
+10925,P003,Desk Plant,1,15.00,2024-10-25,C0133,United Kingdom
+10926,P008,Travel Cup,2,14.00,2024-10-02,C0081,United Kingdom
+10926,P005,Water Bottle,3,18.00,2024-10-02,C0081,United Kingdom
+10927,P006,Desk Lamp,1,32.00,2024-10-02,C0089,Germany
+10928,P004,Notebook Set,1,9.00,2024-10-20,C0130,France
+10929,P002,Canvas Tote,1,12.00,2024-10-14,C0020,United Kingdom
+10929,P002,Canvas Tote,1,12.00,2024-10-14,C0020,United Kingdom
+10930,P007,Pen Pack,1,5.00,2024-10-24,C0095,Germany
+10931,P004,Notebook Set,1,9.00,2024-10-22,C0044,United Kingdom
+10932,P005,Water Bottle,1,18.00,2024-10-26,C0069,United Kingdom
+10933,P004,Notebook Set,2,9.00,2024-10-14,C0018,United Kingdom
+10933,P007,Pen Pack,1,5.00,2024-10-14,C0018,United Kingdom
+10934,P008,Travel Cup,1,14.00,2024-10-02,C0154,Netherlands
+10935,P003,Desk Plant,2,15.00,2024-10-25,C0090,United Kingdom
+10936,P002,Canvas Tote,2,12.00,2024-10-06,C0082,France
+10937,P001,Ceramic Mug,1,8.50,2024-10-15,C0110,United Kingdom
+10938,P001,Ceramic Mug,3,8.50,2024-10-25,C0044,United Kingdom
+10939,P003,Desk Plant,1,15.00,2024-10-16,C0166,United Kingdom
+10940,P007,Pen Pack,1,5.00,2024-10-05,C0017,United Kingdom
+10941,P002,Canvas Tote,1,12.00,2024-10-23,C0004,Netherlands
+10941,P004,Notebook Set,3,9.00,2024-10-23,C0004,Netherlands
+10942,P008,Travel Cup,1,14.00,2024-10-11,C0112,Spain
+10942,P002,Canvas Tote,1,12.00,2024-10-11,C0112,Spain
+10943,P004,Notebook Set,1,9.00,2024-10-16,C0098,United Kingdom
+10944,P004,Notebook Set,4,9.00,2024-10-12,C0047,France
+10945,P004,Notebook Set,2,9.00,2024-10-08,C0026,France
+10946,P004,Notebook Set,1,9.00,2024-10-26,C0088,France
+10947,P006,Desk Lamp,1,32.00,2024-10-14,C0089,Germany
+10948,P001,Ceramic Mug,2,8.50,2024-10-05,C0079,United Kingdom
+10949,P007,Pen Pack,1,5.00,2024-10-14,C0097,France
+10950,P003,Desk Plant,1,15.00,2024-10-26,C0129,United Kingdom
+10950,P004,Notebook Set,1,9.00,2024-10-26,C0129,United Kingdom
+10951,P008,Travel Cup,4,14.00,2024-10-02,C0051,United Kingdom
+10952,P004,Notebook Set,1,9.00,2024-10-23,C0117,United Kingdom
+10952,P003,Desk Plant,1,15.00,2024-10-23,C0117,United Kingdom
+10953,P001,Ceramic Mug,2,8.50,2024-10-10,C0151,United Kingdom
+10954,P004,Notebook Set,1,9.00,2024-10-02,C0107,United Kingdom
+10955,P004,Notebook Set,1,9.00,2024-10-19,C0120,Spain
+10955,P007,Pen Pack,4,5.00,2024-10-19,C0120,Spain
+10956,P001,Ceramic Mug,2,8.50,2024-10-16,C0041,Germany
+10956,P008,Travel Cup,1,14.00,2024-10-16,C0041,Germany
+10957,P001,Ceramic Mug,1,8.50,2024-10-21,C0144,United Kingdom
+10958,P002,Canvas Tote,3,12.00,2024-10-08,C0128,United Kingdom
+10959,P004,Notebook Set,1,9.00,2024-10-15,C0047,United Kingdom
+10959,P002,Canvas Tote,3,12.00,2024-10-15,C0047,United Kingdom
+10960,P001,Ceramic Mug,1,8.50,2024-10-19,C0143,United Kingdom
+10960,P004,Notebook Set,1,9.00,2024-10-19,C0143,United Kingdom
+10961,P003,Desk Plant,1,15.00,2024-10-17,C0149,United Kingdom
+10961,P008,Travel Cup,2,14.00,2024-10-17,C0149,United Kingdom
+10962,P001,Ceramic Mug,3,8.50,2024-10-08,C0070,Germany
+10963,P007,Pen Pack,1,5.00,2024-10-01,C0137,United Kingdom
+10964,P002,Canvas Tote,2,12.00,2024-10-24,C0174,United Kingdom
+10965,P001,Ceramic Mug,2,8.50,2024-10-08,C0120,United Kingdom
+10966,P003,Desk Plant,2,15.00,2024-10-07,C0049,United Kingdom
+10967,P002,Canvas Tote,2,12.00,2024-10-27,C0176,United Kingdom
+10968,P006,Desk Lamp,1,32.00,2024-10-08,C0027,United Kingdom
+10969,P003,Desk Plant,1,15.00,2024-10-07,C0092,Netherlands
+10970,P003,Desk Plant,1,15.00,2024-10-20,C0020,Germany
+10971,P008,Travel Cup,1,14.00,2024-10-27,C0036,Netherlands
+10972,P007,Pen Pack,2,5.00,2024-10-22,C0135,United Kingdom
+10972,P002,Canvas Tote,3,12.00,2024-10-22,C0135,United Kingdom
+10973,P001,Ceramic Mug,1,8.50,2024-10-20,C0120,United Kingdom
+10973,P005,Water Bottle,2,18.00,2024-10-20,C0120,United Kingdom
+10974,P002,Canvas Tote,4,12.00,2024-10-07,C0027,United Kingdom
+10975,P007,Pen Pack,1,5.00,2024-10-20,C0147,United Kingdom
+10976,P006,Desk Lamp,1,32.00,2024-10-25,C0134,Spain
+10977,P004,Notebook Set,1,9.00,2024-10-13,C0064,United Kingdom
+10978,P002,Canvas Tote,1,12.00,2024-10-07,C0054,France
+10979,P006,Desk Lamp,1,32.00,2024-10-26,C0088,Netherlands
+10980,P003,Desk Plant,1,15.00,2024-10-20,C0161,United Kingdom
+10981,P007,Pen Pack,1,5.00,2024-10-13,C0036,Germany
+10981,P006,Desk Lamp,1,32.00,2024-10-13,C0036,Germany
+10982,P003,Desk Plant,1,15.00,2024-10-04,C0086,United Kingdom
+10983,P002,Canvas Tote,1,12.00,2024-10-26,C0012,Spain
+10984,P001,Ceramic Mug,1,8.50,2024-10-16,C0107,Germany
+10985,P006,Desk Lamp,4,32.00,2024-10-03,C0059,United Kingdom
+10986,P001,Ceramic Mug,1,8.50,2024-10-16,C0118,France
+10987,P001,Ceramic Mug,1,8.50,2024-10-12,C0048,United Kingdom
+10988,P001,Ceramic Mug,1,8.50,2024-10-22,C0001,United Kingdom
+10989,P005,Water Bottle,3,18.00,2024-10-23,C0043,United Kingdom
+10990,P006,Desk Lamp,1,32.00,2024-10-02,C0161,United Kingdom
+10990,P005,Water Bottle,1,18.00,2024-10-02,C0161,United Kingdom
+10991,P001,Ceramic Mug,1,8.50,2024-10-23,C0094,France
+10992,P002,Canvas Tote,1,12.00,2024-10-20,C0022,United Kingdom
+10993,P001,Ceramic Mug,1,8.50,2024-10-09,C0177,United Kingdom
+10994,P008,Travel Cup,1,14.00,2024-10-26,C0058,United Kingdom
+10995,P006,Desk Lamp,1,32.00,2024-10-01,C0007,France
+10996,P004,Notebook Set,1,9.00,2024-10-09,C0021,United Kingdom
+10997,P002,Canvas Tote,1,12.00,2024-10-08,C0131,Germany
+10998,P003,Desk Plant,1,15.00,2024-10-01,C0132,Spain
+10999,P003,Desk Plant,1,15.00,2024-10-15,C0173,Netherlands
+11000,P008,Travel Cup,1,14.00,2024-10-22,C0058,Netherlands
+11000,P001,Ceramic Mug,1,8.50,2024-10-22,C0058,Netherlands
+11001,P003,Desk Plant,3,15.00,2024-11-06,C0043,United Kingdom
+11002,P001,Ceramic Mug,1,8.50,2024-11-12,C0027,United Kingdom
+11003,P001,Ceramic Mug,1,8.50,2024-11-27,C0120,Germany
+11004,P005,Water Bottle,1,18.00,2024-11-02,C0041,United Kingdom
+11005,P003,Desk Plant,1,15.00,2024-11-05,C0039,United Kingdom
+11006,P007,Pen Pack,1,5.00,2024-11-18,C0008,United Kingdom
+11006,P002,Canvas Tote,1,12.00,2024-11-18,C0008,United Kingdom
+11007,P002,Canvas Tote,2,12.00,2024-11-22,C0064,Netherlands
+11007,P004,Notebook Set,1,9.00,2024-11-22,C0064,Netherlands
+11008,P005,Water Bottle,1,18.00,2024-11-25,C0105,United Kingdom
+11008,P002,Canvas Tote,1,12.00,2024-11-25,C0105,United Kingdom
+11009,P007,Pen Pack,2,5.00,2024-11-08,C0094,Germany
+11010,P005,Water Bottle,1,18.00,2024-11-15,C0071,United Kingdom
+11011,P007,Pen Pack,1,5.00,2024-11-08,C0164,Spain
+11012,P007,Pen Pack,1,5.00,2024-11-23,C0093,United Kingdom
+11013,P005,Water Bottle,2,18.00,2024-11-06,C0015,United Kingdom
+11014,P006,Desk Lamp,1,32.00,2024-11-15,C0041,United Kingdom
+11015,P004,Notebook Set,1,9.00,2024-11-06,C0110,Spain
+11016,P007,Pen Pack,2,5.00,2024-11-26,C0152,Germany
+11016,P003,Desk Plant,1,15.00,2024-11-26,C0152,Germany
+11017,P002,Canvas Tote,1,12.00,2024-11-01,C0050,United Kingdom
+11017,P001,Ceramic Mug,1,8.50,2024-11-01,C0050,United Kingdom
+11018,P007,Pen Pack,3,5.00,2024-11-22,C0131,United Kingdom
+11018,P001,Ceramic Mug,1,8.50,2024-11-22,C0131,United Kingdom
+11019,P005,Water Bottle,2,18.00,2024-11-20,C0087,Germany
+11020,P004,Notebook Set,2,9.00,2024-11-13,C0146,France
+11021,P002,Canvas Tote,1,12.00,2024-11-21,C0151,United Kingdom
+11022,P007,Pen Pack,2,5.00,2024-11-02,C0077,United Kingdom
+11023,P008,Travel Cup,1,14.00,2024-11-22,C0145,United Kingdom
+11024,P002,Canvas Tote,3,12.00,2024-11-26,C0046,Netherlands
+11025,P004,Notebook Set,1,9.00,2024-11-06,C0160,United Kingdom
+11026,P003,Desk Plant,1,15.00,2024-11-25,C0014,United Kingdom
+11027,P003,Desk Plant,1,15.00,2024-11-18,C0162,Spain
+11028,P001,Ceramic Mug,3,8.50,2024-11-12,C0176,France
+11029,P002,Canvas Tote,1,12.00,2024-11-22,C0050,Germany
+11029,P002,Canvas Tote,1,12.00,2024-11-22,C0050,Germany
+11030,P003,Desk Plant,1,15.00,2024-11-11,C0127,Netherlands
+11031,P001,Ceramic Mug,3,8.50,2024-11-27,C0160,Germany
+11032,P001,Ceramic Mug,1,8.50,2024-11-12,C0149,United Kingdom
+11033,P003,Desk Plant,2,15.00,2024-11-13,C0108,France
+11034,P004,Notebook Set,1,9.00,2024-11-22,C0065,United Kingdom
+11035,P003,Desk Plant,2,15.00,2024-11-06,C0048,United Kingdom
+11035,P004,Notebook Set,1,9.00,2024-11-06,C0048,United Kingdom
+11036,P005,Water Bottle,1,18.00,2024-11-08,C0032,Spain
+11037,P004,Notebook Set,3,9.00,2024-11-23,C0040,France
+11038,P003,Desk Plant,1,15.00,2024-11-26,C0170,United Kingdom
+11039,P001,Ceramic Mug,1,8.50,2024-11-26,C0065,United Kingdom
+11039,P003,Desk Plant,1,15.00,2024-11-26,C0065,United Kingdom
+11040,P007,Pen Pack,1,5.00,2024-11-06,C0099,Germany
+11041,P008,Travel Cup,1,14.00,2024-11-05,C0092,United Kingdom
+11042,P006,Desk Lamp,1,32.00,2024-11-09,C0057,United Kingdom
+11043,P007,Pen Pack,1,5.00,2024-11-05,C0051,United Kingdom
+11044,P001,Ceramic Mug,1,8.50,2024-11-26,C0125,United Kingdom
+11045,P002,Canvas Tote,1,12.00,2024-11-15,C0178,United Kingdom
+11046,P004,Notebook Set,1,9.00,2024-11-15,C0015,United Kingdom
+11047,P002,Canvas Tote,1,12.00,2024-11-24,C0062,United Kingdom
+11048,P001,Ceramic Mug,3,8.50,2024-11-06,C0110,Germany
+11049,P007,Pen Pack,1,5.00,2024-11-22,C0147,Germany
+11050,P001,Ceramic Mug,3,8.50,2024-11-09,C0036,United Kingdom
+11051,P002,Canvas Tote,1,12.00,2024-11-11,C0151,United Kingdom
+11052,P001,Ceramic Mug,1,8.50,2024-11-15,C0105,United Kingdom
+11052,P001,Ceramic Mug,2,8.50,2024-11-15,C0105,United Kingdom
+11053,P007,Pen Pack,4,5.00,2024-11-12,C0022,United Kingdom
+11054,P004,Notebook Set,4,9.00,2024-11-14,C0036,United Kingdom
+11055,P006,Desk Lamp,1,32.00,2024-11-18,C0002,United Kingdom
+11056,P004,Notebook Set,1,9.00,2024-11-20,C0148,United Kingdom
+11057,P008,Travel Cup,1,14.00,2024-11-13,C0068,Germany
+11058,P002,Canvas Tote,1,12.00,2024-11-04,C0067,United Kingdom
+11058,P004,Notebook Set,2,9.00,2024-11-04,C0067,United Kingdom
+11059,P001,Ceramic Mug,1,8.50,2024-11-10,C0081,United Kingdom
+11060,P005,Water Bottle,1,18.00,2024-11-01,C0055,France
+11061,P002,Canvas Tote,2,12.00,2024-11-23,C0080,Germany
+11061,P008,Travel Cup,2,14.00,2024-11-23,C0080,Germany
+11061,P004,Notebook Set,1,9.00,2024-11-23,C0080,Germany
+11062,P007,Pen Pack,1,5.00,2024-11-13,C0169,United Kingdom
+11063,P004,Notebook Set,1,9.00,2024-11-11,C0064,United Kingdom
+11064,P006,Desk Lamp,2,32.00,2024-11-07,C0010,United Kingdom
+11065,P002,Canvas Tote,2,12.00,2024-11-26,C0109,United Kingdom
+11065,P006,Desk Lamp,1,32.00,2024-11-26,C0109,United Kingdom
+11066,P008,Travel Cup,2,14.00,2024-11-22,C0163,United Kingdom
+11066,P008,Travel Cup,1,14.00,2024-11-22,C0163,United Kingdom
+11067,P007,Pen Pack,1,5.00,2024-11-24,C0150,United Kingdom
+11068,P001,Ceramic Mug,1,8.50,2024-11-24,C0007,United Kingdom
+11068,P003,Desk Plant,3,15.00,2024-11-24,C0007,United Kingdom
+11069,P003,Desk Plant,1,15.00,2024-11-12,C0091,United Kingdom
+11070,P004,Notebook Set,1,9.00,2024-11-11,C0153,United Kingdom
+11071,P001,Ceramic Mug,1,8.50,2024-11-10,C0050,Spain
+11071,P001,Ceramic Mug,2,8.50,2024-11-10,C0050,Spain
+11071,P005,Water Bottle,2,18.00,2024-11-10,C0050,Spain
+11072,P008,Travel Cup,1,14.00,2024-11-12,C0148,Germany
+11073,P002,Canvas Tote,2,12.00,2024-11-12,C0046,United Kingdom
+11074,P001,Ceramic Mug,1,8.50,2024-11-11,C0114,Netherlands
+11075,P002,Canvas Tote,2,12.00,2024-11-14,C0076,United Kingdom
+11076,P005,Water Bottle,2,18.00,2024-11-04,C0034,United Kingdom
+11076,P004,Notebook Set,1,9.00,2024-11-04,C0034,United Kingdom
+11077,P005,Water Bottle,1,18.00,2024-11-22,C0054,France
+11078,P001,Ceramic Mug,4,8.50,2024-11-09,C0025,France
+11079,P005,Water Bottle,1,18.00,2024-11-22,C0095,United Kingdom
+11080,P004,Notebook Set,1,9.00,2024-11-15,C0066,United Kingdom
+11081,P001,Ceramic Mug,1,8.50,2024-11-08,C0059,United Kingdom
+11082,P002,Canvas Tote,1,12.00,2024-11-25,C0156,Germany
+11083,P001,Ceramic Mug,3,8.50,2024-11-13,C0066,United Kingdom
+11084,P003,Desk Plant,1,15.00,2024-11-21,C0026,Netherlands
+11085,P001,Ceramic Mug,2,8.50,2024-11-26,C0057,Spain
+11086,P001,Ceramic Mug,1,8.50,2024-11-01,C0144,Netherlands
+11087,P001,Ceramic Mug,1,8.50,2024-11-06,C0008,Germany
+11088,P008,Travel Cup,1,14.00,2024-11-15,C0158,United Kingdom
+11088,P001,Ceramic Mug,3,8.50,2024-11-15,C0158,United Kingdom
+11088,P007,Pen Pack,1,5.00,2024-11-15,C0158,United Kingdom
+11089,P002,Canvas Tote,1,12.00,2024-11-20,C0180,France
+11090,P002,Canvas Tote,1,12.00,2024-11-02,C0067,United Kingdom
+11091,P004,Notebook Set,2,9.00,2024-11-04,C0033,United Kingdom
+11092,P004,Notebook Set,2,9.00,2024-11-05,C0089,France
+11093,P003,Desk Plant,1,15.00,2024-11-02,C0073,Netherlands
+11093,P003,Desk Plant,1,15.00,2024-11-02,C0073,Netherlands
+11094,P001,Ceramic Mug,2,8.50,2024-11-07,C0180,Germany
+11094,P001,Ceramic Mug,4,8.50,2024-11-07,C0180,Germany
+11095,P007,Pen Pack,2,5.00,2024-11-12,C0092,United Kingdom
+11096,P003,Desk Plant,1,15.00,2024-11-08,C0034,United Kingdom
+11097,P007,Pen Pack,1,5.00,2024-11-18,C0094,United Kingdom
+11098,P005,Water Bottle,3,18.00,2024-11-15,C0066,France
+11098,P004,Notebook Set,1,9.00,2024-11-15,C0066,France
+11099,P003,Desk Plant,1,15.00,2024-11-15,C0143,France
+11100,P002,Canvas Tote,1,12.00,2024-11-15,C0153,Germany
+11101,P003,Desk Plant,1,15.00,2024-11-20,C0077,Spain
+11102,P005,Water Bottle,2,18.00,2024-11-07,C0169,Netherlands
+11103,P006,Desk Lamp,1,32.00,2024-11-17,C0001,United Kingdom
+11104,P005,Water Bottle,1,18.00,2024-11-03,C0112,United Kingdom
+11105,P003,Desk Plant,1,15.00,2024-11-20,C0072,United Kingdom
+11106,P004,Notebook Set,1,9.00,2024-11-02,C0149,France
+11106,P001,Ceramic Mug,1,8.50,2024-11-02,C0149,France
+11107,P005,Water Bottle,1,18.00,2024-11-06,C0091,Germany
+11108,P005,Water Bottle,1,18.00,2024-11-13,C0003,United Kingdom
+11109,P007,Pen Pack,1,5.00,2024-11-19,C0039,United Kingdom
+11110,P001,Ceramic Mug,2,8.50,2024-11-19,C0107,United Kingdom
+11111,P004,Notebook Set,1,9.00,2024-11-10,C0038,United Kingdom
+11111,P007,Pen Pack,2,5.00,2024-11-10,C0038,United Kingdom
+11112,P007,Pen Pack,1,5.00,2024-11-13,C0100,United Kingdom
+11113,P007,Pen Pack,2,5.00,2024-11-19,C0111,United Kingdom
+11114,P003,Desk Plant,2,15.00,2024-11-13,C0117,United Kingdom
+11115,P008,Travel Cup,4,14.00,2024-11-09,C0118,United Kingdom
+11116,P001,Ceramic Mug,1,8.50,2024-11-02,C0101,United Kingdom
+11116,P003,Desk Plant,1,15.00,2024-11-02,C0101,United Kingdom
+11117,P003,Desk Plant,1,15.00,2024-11-11,C0040,United Kingdom
+11118,P001,Ceramic Mug,3,8.50,2024-11-10,C0063,United Kingdom
+11119,P008,Travel Cup,1,14.00,2024-11-16,C0066,France
+11120,P003,Desk Plant,1,15.00,2024-11-25,C0066,United Kingdom
+11120,P001,Ceramic Mug,3,8.50,2024-11-25,C0066,United Kingdom
+11121,P006,Desk Lamp,2,32.00,2024-11-21,C0058,United Kingdom
+11121,P003,Desk Plant,1,15.00,2024-11-21,C0058,United Kingdom
+11122,P004,Notebook Set,1,9.00,2024-11-17,C0135,Netherlands
+11122,P004,Notebook Set,3,9.00,2024-11-17,C0135,Netherlands
+11123,P004,Notebook Set,2,9.00,2024-11-04,C0006,United Kingdom
+11123,P006,Desk Lamp,2,32.00,2024-11-04,C0006,United Kingdom
+11124,P004,Notebook Set,1,9.00,2024-11-03,C0011,Germany
+11125,P001,Ceramic Mug,1,8.50,2024-11-19,C0011,United Kingdom
+11125,P007,Pen Pack,3,5.00,2024-11-19,C0011,United Kingdom
+11126,P005,Water Bottle,1,18.00,2024-11-11,C0084,United Kingdom
+11127,P006,Desk Lamp,1,32.00,2024-11-10,C0035,United Kingdom
+11128,P007,Pen Pack,2,5.00,2024-11-26,C0086,United Kingdom
+11129,P003,Desk Plant,2,15.00,2024-11-04,C0121,United Kingdom
+11129,P001,Ceramic Mug,1,8.50,2024-11-04,C0121,United Kingdom
+11129,P002,Canvas Tote,1,12.00,2024-11-04,C0121,United Kingdom
+11130,P003,Desk Plant,2,15.00,2024-11-20,C0028,United Kingdom
+11131,P002,Canvas Tote,3,12.00,2024-11-19,C0161,United Kingdom
+11132,P001,Ceramic Mug,1,8.50,2024-11-16,C0108,United Kingdom
+11133,P001,Ceramic Mug,3,8.50,2024-11-01,C0051,United Kingdom
+11133,P002,Canvas Tote,2,12.00,2024-11-01,C0051,United Kingdom
+11134,P002,Canvas Tote,1,12.00,2024-11-24,C0102,United Kingdom
+11135,P005,Water Bottle,4,18.00,2024-11-02,C0098,Netherlands
+11136,P008,Travel Cup,1,14.00,2024-12-23,C0133,Spain
+11137,P001,Ceramic Mug,2,8.50,2024-12-07,C0175,United Kingdom
+11138,P008,Travel Cup,1,14.00,2024-12-20,C0066,United Kingdom
+11139,P003,Desk Plant,1,15.00,2024-12-12,C0113,France
+11140,P006,Desk Lamp,1,32.00,2024-12-21,C0079,United Kingdom
+11141,P008,Travel Cup,1,14.00,2024-12-23,C0159,United Kingdom
+11141,P007,Pen Pack,2,5.00,2024-12-23,C0159,United Kingdom
+11141,P007,Pen Pack,1,5.00,2024-12-23,C0159,United Kingdom
+11142,P001,Ceramic Mug,2,8.50,2024-12-14,C0162,United Kingdom
+11142,P002,Canvas Tote,2,12.00,2024-12-14,C0162,United Kingdom
+11143,P005,Water Bottle,2,18.00,2024-12-17,C0089,United Kingdom
+11144,P004,Notebook Set,2,9.00,2024-12-20,C0083,France
+11145,P002,Canvas Tote,1,12.00,2024-12-02,C0055,United Kingdom
+11146,P003,Desk Plant,1,15.00,2024-12-10,C0024,United Kingdom
+11146,P003,Desk Plant,1,15.00,2024-12-10,C0024,United Kingdom
+11147,P007,Pen Pack,1,5.00,2024-12-06,C0135,United Kingdom
+11147,P007,Pen Pack,1,5.00,2024-12-06,C0135,United Kingdom
+11148,P003,Desk Plant,1,15.00,2024-12-02,C0023,United Kingdom
+11149,P001,Ceramic Mug,3,8.50,2024-12-08,C0106,United Kingdom
+11150,P007,Pen Pack,1,5.00,2024-12-07,C0082,France
+11150,P005,Water Bottle,3,18.00,2024-12-07,C0082,France
+11150,P003,Desk Plant,1,15.00,2024-12-07,C0082,France
+11151,P007,Pen Pack,1,5.00,2024-12-27,C0136,United Kingdom
+11152,P001,Ceramic Mug,1,8.50,2024-12-06,C0128,Germany
+11152,P006,Desk Lamp,1,32.00,2024-12-06,C0128,Germany
+11153,P001,Ceramic Mug,1,8.50,2024-12-17,C0114,Germany
+11154,P001,Ceramic Mug,2,8.50,2024-12-24,C0173,United Kingdom
+11155,P005,Water Bottle,1,18.00,2024-12-03,C0157,United Kingdom
+11156,P004,Notebook Set,1,9.00,2024-12-14,C0033,United Kingdom
+11156,P003,Desk Plant,1,15.00,2024-12-14,C0033,United Kingdom
+11157,P005,Water Bottle,2,18.00,2024-12-02,C0121,United Kingdom
+11157,P004,Notebook Set,1,9.00,2024-12-02,C0121,United Kingdom
+11158,P002,Canvas Tote,1,12.00,2024-12-15,C0081,United Kingdom
+11158,P008,Travel Cup,1,14.00,2024-12-15,C0081,United Kingdom
+11159,P004,Notebook Set,1,9.00,2024-12-23,C0007,United Kingdom
+11160,P002,Canvas Tote,2,12.00,2024-12-18,C0092,Spain
+11160,P007,Pen Pack,2,5.00,2024-12-18,C0092,Spain
+11161,P002,Canvas Tote,1,12.00,2024-12-27,C0068,United Kingdom
+11162,P007,Pen Pack,2,5.00,2024-12-24,C0087,United Kingdom
+11162,P003,Desk Plant,1,15.00,2024-12-24,C0087,United Kingdom
+11163,P004,Notebook Set,1,9.00,2024-12-17,C0065,United Kingdom
+11163,P001,Ceramic Mug,1,8.50,2024-12-17,C0065,United Kingdom
+11164,P002,Canvas Tote,1,12.00,2024-12-25,C0005,Netherlands
+11165,P005,Water Bottle,1,18.00,2024-12-13,C0047,Germany
+11165,P005,Water Bottle,1,18.00,2024-12-13,C0047,Germany
+11166,P005,Water Bottle,1,18.00,2024-12-05,C0076,Netherlands
+11167,P004,Notebook Set,1,9.00,2024-12-25,C0062,United Kingdom
+11167,P004,Notebook Set,4,9.00,2024-12-25,C0062,United Kingdom
+11167,P003,Desk Plant,1,15.00,2024-12-25,C0062,United Kingdom
+11168,P004,Notebook Set,2,9.00,2024-12-02,C0064,United Kingdom
+11169,P001,Ceramic Mug,1,8.50,2024-12-22,C0030,France
+11169,P006,Desk Lamp,2,32.00,2024-12-22,C0030,France
+11169,P001,Ceramic Mug,2,8.50,2024-12-22,C0030,France
+11170,P007,Pen Pack,1,5.00,2024-12-06,C0137,United Kingdom
+11170,P008,Travel Cup,1,14.00,2024-12-06,C0137,United Kingdom
+11171,P008,Travel Cup,2,14.00,2024-12-21,C0090,United Kingdom
+11171,P003,Desk Plant,2,15.00,2024-12-21,C0090,United Kingdom
+11171,P008,Travel Cup,1,14.00,2024-12-21,C0090,United Kingdom
+11172,P007,Pen Pack,3,5.00,2024-12-22,C0068,United Kingdom
+11173,P004,Notebook Set,1,9.00,2024-12-19,C0139,United Kingdom
+11174,P001,Ceramic Mug,2,8.50,2024-12-08,C0071,Germany
+11175,P004,Notebook Set,1,9.00,2024-12-08,C0068,United Kingdom
+11176,P002,Canvas Tote,1,12.00,2024-12-15,C0061,United Kingdom
+11177,P005,Water Bottle,4,18.00,2024-12-26,C0048,United Kingdom
+11178,P002,Canvas Tote,1,12.00,2024-12-20,C0089,Germany
+11179,P002,Canvas Tote,4,12.00,2024-12-03,C0132,Germany
+11180,P003,Desk Plant,1,15.00,2024-12-20,C0037,United Kingdom
+11181,P004,Notebook Set,1,9.00,2024-12-26,C0102,United Kingdom
+11182,P001,Ceramic Mug,2,8.50,2024-12-26,C0010,France
+11183,P006,Desk Lamp,1,32.00,2024-12-10,C0095,United Kingdom
+11183,P006,Desk Lamp,1,32.00,2024-12-10,C0095,United Kingdom
+11184,P001,Ceramic Mug,2,8.50,2024-12-01,C0166,United Kingdom
+11184,P004,Notebook Set,1,9.00,2024-12-01,C0166,United Kingdom
+11185,P001,Ceramic Mug,2,8.50,2024-12-23,C0002,United Kingdom
+11185,P001,Ceramic Mug,1,8.50,2024-12-23,C0002,United Kingdom
+11186,P005,Water Bottle,1,18.00,2024-12-09,C0119,United Kingdom
+11187,P008,Travel Cup,2,14.00,2024-12-19,C0074,United Kingdom
+11188,P003,Desk Plant,3,15.00,2024-12-25,C0173,United Kingdom
+11188,P005,Water Bottle,1,18.00,2024-12-25,C0173,United Kingdom
+11189,P003,Desk Plant,4,15.00,2024-12-02,C0109,Spain
+11189,P005,Water Bottle,1,18.00,2024-12-02,C0109,Spain
+11190,P003,Desk Plant,1,15.00,2024-12-03,C0104,Germany
+11191,P004,Notebook Set,1,9.00,2024-12-26,C0054,United Kingdom
+11192,P003,Desk Plant,1,15.00,2024-12-20,C0004,United Kingdom
+11193,P004,Notebook Set,1,9.00,2024-12-26,C0121,Netherlands
+11194,P005,Water Bottle,1,18.00,2024-12-24,C0027,United Kingdom
+11195,P007,Pen Pack,1,5.00,2024-12-01,C0103,United Kingdom
+11196,P003,Desk Plant,4,15.00,2024-12-19,C0059,United Kingdom
+11197,P002,Canvas Tote,2,12.00,2024-12-14,C0084,United Kingdom
+11198,P004,Notebook Set,3,9.00,2024-12-19,C0111,United Kingdom
+11199,P005,Water Bottle,1,18.00,2024-12-15,C0163,Germany
+11200,P007,Pen Pack,1,5.00,2024-12-03,C0056,United Kingdom
+11201,P004,Notebook Set,1,9.00,2024-12-19,C0108,France
+11202,P007,Pen Pack,1,5.00,2024-12-04,C0157,United Kingdom
+11202,P008,Travel Cup,1,14.00,2024-12-04,C0157,United Kingdom
+11203,P002,Canvas Tote,1,12.00,2024-12-06,C0066,United Kingdom
+11203,P001,Ceramic Mug,2,8.50,2024-12-06,C0066,United Kingdom
+11204,P001,Ceramic Mug,1,8.50,2024-12-02,C0035,United Kingdom
+11205,P001,Ceramic Mug,1,8.50,2024-12-17,C0073,Spain
+11206,P005,Water Bottle,2,18.00,2024-12-26,C0131,United Kingdom
+11207,P003,Desk Plant,1,15.00,2024-12-01,C0020,United Kingdom
+11208,P004,Notebook Set,4,9.00,2024-12-13,C0169,United Kingdom
+11209,P005,Water Bottle,1,18.00,2024-12-12,C0032,United Kingdom
+11210,P008,Travel Cup,1,14.00,2024-12-03,C0007,Spain
+11211,P004,Notebook Set,2,9.00,2024-12-02,C0118,United Kingdom
+11212,P004,Notebook Set,1,9.00,2024-12-11,C0011,United Kingdom
+11212,P006,Desk Lamp,1,32.00,2024-12-11,C0011,United Kingdom
+11213,P003,Desk Plant,1,15.00,2024-12-18,C0147,United Kingdom
+11214,P008,Travel Cup,2,14.00,2024-12-01,C0048,Germany
+11215,P007,Pen Pack,1,5.00,2024-12-16,C0022,United Kingdom
+11216,P002,Canvas Tote,1,12.00,2024-12-17,C0078,France
+11216,P002,Canvas Tote,1,12.00,2024-12-17,C0078,France
+11217,P001,Ceramic Mug,3,8.50,2024-12-27,C0080,United Kingdom
+11218,P007,Pen Pack,1,5.00,2024-12-27,C0143,United Kingdom
+11218,P004,Notebook Set,1,9.00,2024-12-27,C0143,United Kingdom
+11219,P002,Canvas Tote,1,12.00,2024-12-05,C0168,Germany
+11220,P001,Ceramic Mug,1,8.50,2024-12-09,C0143,United Kingdom
+11221,P003,Desk Plant,1,15.00,2024-12-05,C0135,United Kingdom
+11222,P001,Ceramic Mug,1,8.50,2024-12-20,C0019,United Kingdom
+11222,P003,Desk Plant,1,15.00,2024-12-20,C0019,United Kingdom
+11223,P008,Travel Cup,1,14.00,2024-12-01,C0133,Spain
+11224,P003,Desk Plant,1,15.00,2024-12-02,C0160,Netherlands
+11224,P007,Pen Pack,2,5.00,2024-12-02,C0160,Netherlands
+11225,P001,Ceramic Mug,1,8.50,2024-12-17,C0106,United Kingdom
+11226,P002,Canvas Tote,1,12.00,2024-12-09,C0020,Germany
+11227,P002,Canvas Tote,2,12.00,2024-12-24,C0074,Netherlands
+11228,P004,Notebook Set,1,9.00,2024-12-26,C0142,Netherlands
+11229,P005,Water Bottle,4,18.00,2024-12-07,C0146,United Kingdom
+11229,P002,Canvas Tote,2,12.00,2024-12-07,C0146,United Kingdom
+11230,P002,Canvas Tote,1,12.00,2024-12-27,C0059,United Kingdom
+11231,P005,Water Bottle,4,18.00,2024-12-07,C0084,Germany
+11232,P002,Canvas Tote,1,12.00,2024-12-12,C0172,United Kingdom
+11233,P003,Desk Plant,4,15.00,2024-12-14,C0069,United Kingdom
+11234,P006,Desk Lamp,1,32.00,2024-12-07,C0094,Netherlands
+11235,P007,Pen Pack,1,5.00,2024-12-11,C0152,United Kingdom
+11236,P002,Canvas Tote,1,12.00,2024-12-23,C0058,United Kingdom
+11237,P002,Canvas Tote,1,12.00,2024-12-17,C0027,United Kingdom
+11238,P003,Desk Plant,1,15.00,2024-12-19,C0005,United Kingdom
+11239,P007,Pen Pack,2,5.00,2024-12-18,C0134,Netherlands
+11240,P007,Pen Pack,1,5.00,2024-12-22,C0079,Germany
+11241,P007,Pen Pack,2,5.00,2024-12-25,C0029,Germany
+11242,P003,Desk Plant,1,15.00,2024-12-09,C0100,United Kingdom
+11242,P002,Canvas Tote,1,12.00,2024-12-09,C0100,United Kingdom
+11242,P007,Pen Pack,2,5.00,2024-12-09,C0100,United Kingdom
+11243,P002,Canvas Tote,1,12.00,2024-12-10,C0111,United Kingdom
+11243,P006,Desk Lamp,1,32.00,2024-12-10,C0111,United Kingdom
+11244,P005,Water Bottle,1,18.00,2024-12-05,C0036,United Kingdom
+11245,P008,Travel Cup,1,14.00,2024-12-24,C0006,United Kingdom
+11246,P006,Desk Lamp,1,32.00,2024-12-25,C0084,United Kingdom
+11246,P005,Water Bottle,1,18.00,2024-12-25,C0084,United Kingdom
+11247,P005,Water Bottle,1,18.00,2024-12-09,C0136,Spain
+11248,P005,Water Bottle,2,18.00,2024-12-24,C0066,Netherlands
+11249,P002,Canvas Tote,1,12.00,2024-12-11,C0146,United Kingdom
+11250,P005,Water Bottle,3,18.00,2024-12-14,C0132,Germany
+11250,P004,Notebook Set,2,9.00,2024-12-14,C0132,Germany
+11251,P006,Desk Lamp,1,32.00,2024-12-23,C0016,Germany
+11252,P003,Desk Plant,1,15.00,2024-12-04,C0113,United Kingdom
+11253,P005,Water Bottle,1,18.00,2024-12-14,C0087,United Kingdom
+11254,P002,Canvas Tote,1,12.00,2024-12-18,C0028,United Kingdom
+11255,P002,Canvas Tote,1,12.00,2024-12-08,C0014,United Kingdom
+11256,P007,Pen Pack,1,5.00,2024-12-23,C0093,United Kingdom
+11257,P004,Notebook Set,2,9.00,2024-12-05,C0137,United Kingdom
+11258,P004,Notebook Set,1,9.00,2024-12-27,C0034,Germany
+11258,P005,Water Bottle,1,18.00,2024-12-27,C0034,Germany
+11259,P008,Travel Cup,1,14.00,2024-12-22,C0142,Netherlands
+11260,P002,Canvas Tote,1,12.00,2024-12-22,C0014,United Kingdom
+11261,P005,Water Bottle,1,18.00,2024-12-16,C0056,United Kingdom
+11261,P007,Pen Pack,3,5.00,2024-12-16,C0056,United Kingdom
+11261,P002,Canvas Tote,1,12.00,2024-12-16,C0056,United Kingdom
+11262,P005,Water Bottle,1,18.00,2024-12-07,C0091,United Kingdom
+11263,P002,Canvas Tote,2,12.00,2024-12-04,C0179,United Kingdom
+11264,P004,Notebook Set,1,9.00,2024-12-18,C0140,United Kingdom
+11265,P008,Travel Cup,1,14.00,2024-12-15,C0028,France
+11265,P001,Ceramic Mug,2,8.50,2024-12-15,C0028,France
+11266,P005,Water Bottle,1,18.00,2024-12-03,C0119,United Kingdom
+11267,P007,Pen Pack,1,5.00,2024-12-14,C0070,United Kingdom
+11267,P003,Desk Plant,2,15.00,2024-12-14,C0070,United Kingdom
+11268,P002,Canvas Tote,1,12.00,2024-12-01,C0064,United Kingdom
+11269,P004,Notebook Set,1,9.00,2024-12-11,C0065,Netherlands
+11269,P005,Water Bottle,2,18.00,2024-12-11,C0065,Netherlands
+11270,P008,Travel Cup,1,14.00,2024-12-23,C0087,United Kingdom
+11270,P004,Notebook Set,1,9.00,2024-12-23,C0087,United Kingdom
